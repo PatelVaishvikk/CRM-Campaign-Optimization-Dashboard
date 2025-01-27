@@ -1,0 +1,521 @@
+Campaign_Name,Campaign_Type,Recipient_ID,Delivery_Status,Open_Status,Click_Status,Conversion_Status,Engagement_Time,Sent_Timestamp,Opened_Timestamp,Clicked_Timestamp,Converted_Timestamp,Recipient_Age,Recipient_Gender,Recipient_Location,Click_Through_Rate,Conversion_Rate
+New Product Launch,Email,2,Delivered,Opened,Clicked,Converted,143,2025-01-24 02:49:43,2025-01-24 04:59:23,Not Clicked,Not Converted,20,Non-Binary,Los Angeles,1.0,1.0
+Winter Fest,SMS,3,Delivered,Not Opened,Not Clicked,Not Converted,239,2024-12-28 20:38:18,2025-01-08 00:11:22,Not Clicked,Not Converted,46,Non-Binary,Los Angeles,0.0,0.0
+Summer Sale,Push Notification,4,Delivered,Opened,Clicked,Converted,159,2025-01-06 00:28:42,Not Opened,Not Clicked,2025-01-22 03:21:13,25,Non-Binary,Houston,1.0,1.0
+Summer Sale,Email,6,Delivered,Not Opened,Clicked,Converted,405,2025-01-02 12:44:52,Not Opened,2025-01-19 21:35:53,2025-01-13 07:20:23,31,Female,Chicago,1.0,1.0
+Summer Sale,Push Notification,8,Delivered,Opened,Not Clicked,Converted,280,2025-01-06 08:46:53,Not Opened,Not Clicked,2025-01-07 09:02:29,48,Non-Binary,Miami,0.0,1.0
+Holiday Specials,Email,10,Delivered,Opened,Clicked,Not Converted,217,2025-01-20 14:47:30,Not Opened,Not Clicked,2024-12-31 07:50:16,38,Female,New York,1.0,0.0
+Black Friday,SMS,11,Delivered,Opened,Not Clicked,Not Converted,86,2025-01-07 03:36:24,Not Opened,2025-01-13 23:04:48,Not Converted,63,Male,San Francisco,0.0,0.0
+Winter Fest,Email,12,Delivered,Opened,Clicked,Not Converted,494,2025-01-12 17:52:53,2025-01-10 11:18:10,2025-01-26 02:53:59,2025-01-11 11:38:48,56,Female,New York,1.0,0.0
+Holiday Specials,Push Notification,13,Delivered,Not Opened,Clicked,Not Converted,326,2025-01-13 04:14:02,Not Opened,Not Clicked,2025-01-11 15:25:31,34,Female,Houston,1.0,0.0
+Holiday Specials,SMS,15,Delivered,Not Opened,Clicked,Converted,265,2024-12-28 08:44:11,Not Opened,Not Clicked,2025-01-21 20:04:09,47,Non-Binary,Los Angeles,1.0,1.0
+Summer Sale,Email,17,Delivered,Not Opened,Clicked,Not Converted,527,2025-01-16 03:20:36,2025-01-24 04:04:59,Not Clicked,2024-12-31 01:41:22,33,Female,Miami,1.0,0.0
+Black Friday,Push Notification,18,Delivered,Not Opened,Clicked,Not Converted,491,2025-01-02 08:25:48,Not Opened,2025-01-09 02:53:02,Not Converted,47,Female,San Francisco,1.0,0.0
+New Product Launch,Email,19,Delivered,Opened,Not Clicked,Not Converted,3,2024-12-29 09:19:00,2025-01-21 09:13:55,Not Clicked,2025-01-26 21:19:38,41,Male,San Francisco,0.0,0.0
+Holiday Specials,Push Notification,21,Delivered,Opened,Not Clicked,Not Converted,99,2025-01-26 10:07:24,Not Opened,2025-01-01 23:54:19,2025-01-10 20:58:04,26,Non-Binary,Miami,0.0,0.0
+Winter Fest,Push Notification,22,Delivered,Opened,Clicked,Converted,442,2025-01-08 07:19:39,2025-01-19 01:10:59,Not Clicked,2025-01-11 15:45:37,63,Non-Binary,Miami,1.0,1.0
+Holiday Specials,Push Notification,23,Delivered,Not Opened,Clicked,Converted,129,2024-12-30 21:00:38,2025-01-11 14:00:18,Not Clicked,Not Converted,34,Female,Miami,1.0,1.0
+New Product Launch,Push Notification,25,Delivered,Not Opened,Not Clicked,Converted,268,2025-01-23 14:48:46,2025-01-12 06:51:06,Not Clicked,2025-01-09 22:11:48,18,Non-Binary,Los Angeles,0.0,1.0
+Black Friday,Email,27,Delivered,Opened,Not Clicked,Converted,64,2025-01-26 00:55:53,2025-01-15 02:21:12,Not Clicked,Not Converted,59,Female,New York,0.0,1.0
+New Product Launch,SMS,29,Delivered,Not Opened,Not Clicked,Not Converted,567,2025-01-23 08:09:10,2025-01-24 07:58:12,Not Clicked,Not Converted,38,Non-Binary,San Francisco,0.0,0.0
+Holiday Specials,Email,32,Delivered,Not Opened,Clicked,Not Converted,122,2025-01-10 20:35:56,2025-01-03 17:34:35,2025-01-23 16:49:28,2025-01-19 22:07:50,36,Non-Binary,Miami,1.0,0.0
+Winter Fest,SMS,34,Delivered,Opened,Not Clicked,Not Converted,498,2025-01-14 23:07:14,Not Opened,2024-12-30 21:23:20,Not Converted,47,Male,Houston,0.0,0.0
+Black Friday,Email,35,Delivered,Not Opened,Not Clicked,Not Converted,452,2025-01-21 20:30:08,Not Opened,Not Clicked,2025-01-16 21:27:24,47,Non-Binary,San Francisco,0.0,0.0
+Black Friday,SMS,39,Delivered,Opened,Not Clicked,Converted,280,2025-01-10 00:19:56,Not Opened,Not Clicked,2025-01-13 20:32:02,31,Non-Binary,Chicago,0.0,1.0
+Summer Sale,SMS,40,Delivered,Opened,Clicked,Not Converted,468,2025-01-19 18:10:35,Not Opened,2024-12-29 15:00:55,2025-01-16 06:31:02,41,Non-Binary,Miami,1.0,0.0
+Holiday Specials,Push Notification,42,Delivered,Not Opened,Clicked,Not Converted,432,2025-01-15 05:44:12,2025-01-07 06:09:56,2025-01-16 22:04:30,Not Converted,57,Male,Los Angeles,1.0,0.0
+Loyalty Program,Email,43,Delivered,Opened,Not Clicked,Converted,239,2025-01-16 05:29:06,2025-01-22 19:20:57,Not Clicked,2025-01-08 15:59:34,59,Male,Miami,0.0,1.0
+Holiday Specials,Push Notification,44,Delivered,Not Opened,Clicked,Not Converted,224,2025-01-15 06:14:50,2024-12-28 19:12:48,Not Clicked,2025-01-01 00:50:00,22,Male,New York,1.0,0.0
+Loyalty Program,Email,45,Delivered,Not Opened,Clicked,Converted,597,2025-01-13 09:29:38,2025-01-07 06:59:52,2025-01-08 13:58:33,2024-12-31 14:43:39,23,Non-Binary,San Francisco,1.0,1.0
+Loyalty Program,Push Notification,46,Delivered,Opened,Clicked,Not Converted,22,2025-01-14 23:23:27,Not Opened,2025-01-13 07:56:03,Not Converted,65,Female,Chicago,1.0,0.0
+Holiday Specials,Push Notification,50,Delivered,Not Opened,Clicked,Not Converted,118,2025-01-23 21:15:43,2025-01-17 02:00:27,Not Clicked,Not Converted,24,Non-Binary,Los Angeles,1.0,0.0
+Summer Sale,Push Notification,51,Delivered,Not Opened,Not Clicked,Converted,344,2025-01-18 08:37:37,Not Opened,2024-12-28 01:04:19,Not Converted,30,Female,San Francisco,0.0,1.0
+New Product Launch,Email,53,Delivered,Opened,Clicked,Not Converted,39,2025-01-07 09:03:29,2025-01-02 16:05:20,Not Clicked,2025-01-13 20:46:16,43,Non-Binary,New York,1.0,0.0
+Winter Fest,Push Notification,55,Delivered,Opened,Clicked,Converted,205,2025-01-23 05:09:13,2025-01-06 21:37:23,Not Clicked,Not Converted,48,Non-Binary,Houston,1.0,1.0
+New Product Launch,Email,57,Delivered,Opened,Clicked,Not Converted,217,2025-01-19 10:45:54,Not Opened,2025-01-01 00:27:19,Not Converted,41,Non-Binary,Miami,1.0,0.0
+Holiday Specials,Push Notification,59,Delivered,Not Opened,Not Clicked,Converted,144,2025-01-16 21:24:48,2025-01-10 23:40:32,Not Clicked,2025-01-23 16:39:52,34,Male,Los Angeles,0.0,1.0
+Summer Sale,SMS,62,Delivered,Not Opened,Clicked,Not Converted,428,2025-01-14 23:14:43,Not Opened,Not Clicked,Not Converted,48,Male,New York,1.0,0.0
+Black Friday,SMS,66,Delivered,Opened,Clicked,Not Converted,30,2025-01-22 19:15:57,Not Opened,2025-01-12 17:43:22,2025-01-16 00:34:14,34,Male,Chicago,1.0,0.0
+Winter Fest,SMS,67,Delivered,Opened,Clicked,Converted,177,2024-12-28 22:36:30,Not Opened,Not Clicked,Not Converted,36,Female,San Francisco,1.0,1.0
+Summer Sale,Email,68,Delivered,Opened,Not Clicked,Converted,145,2025-01-01 16:42:31,Not Opened,2025-01-20 20:52:18,Not Converted,50,Male,New York,0.0,1.0
+New Product Launch,Push Notification,69,Delivered,Not Opened,Not Clicked,Converted,484,2024-12-28 13:42:01,2025-01-17 08:31:04,2025-01-17 02:00:55,2025-01-15 18:29:49,42,Male,Chicago,0.0,1.0
+Winter Fest,SMS,72,Delivered,Not Opened,Not Clicked,Converted,364,2025-01-10 14:52:26,2025-01-08 20:50:27,Not Clicked,Not Converted,44,Non-Binary,Houston,0.0,1.0
+New Product Launch,Email,74,Delivered,Not Opened,Not Clicked,Not Converted,164,2025-01-10 19:32:01,Not Opened,Not Clicked,Not Converted,55,Non-Binary,San Francisco,0.0,0.0
+Black Friday,Email,75,Delivered,Opened,Clicked,Not Converted,512,2025-01-11 05:56:11,2025-01-24 04:57:16,2025-01-11 14:15:59,2025-01-05 00:00:26,31,Non-Binary,New York,1.0,0.0
+Summer Sale,Push Notification,76,Delivered,Not Opened,Clicked,Not Converted,591,2025-01-15 17:17:30,Not Opened,Not Clicked,Not Converted,49,Non-Binary,Chicago,1.0,0.0
+Holiday Specials,Push Notification,77,Delivered,Opened,Clicked,Not Converted,339,2024-12-29 04:30:46,2024-12-28 04:45:42,Not Clicked,Not Converted,43,Male,Houston,1.0,0.0
+Black Friday,Email,78,Delivered,Not Opened,Clicked,Not Converted,327,2025-01-19 12:07:22,Not Opened,2025-01-06 03:18:29,Not Converted,36,Non-Binary,Houston,1.0,0.0
+Winter Fest,SMS,79,Delivered,Opened,Clicked,Not Converted,217,2025-01-14 22:55:46,2025-01-19 15:02:31,Not Clicked,2025-01-25 19:05:02,40,Non-Binary,San Francisco,1.0,0.0
+Black Friday,Push Notification,81,Delivered,Not Opened,Not Clicked,Converted,229,2025-01-06 17:34:18,2025-01-04 13:33:23,2025-01-21 18:10:45,Not Converted,59,Male,Los Angeles,0.0,1.0
+New Product Launch,SMS,82,Delivered,Not Opened,Not Clicked,Converted,16,2025-01-11 01:39:37,2025-01-18 10:25:20,Not Clicked,Not Converted,43,Male,Miami,0.0,1.0
+Winter Fest,Push Notification,83,Delivered,Not Opened,Clicked,Not Converted,124,2025-01-12 18:35:07,Not Opened,Not Clicked,Not Converted,18,Non-Binary,Miami,1.0,0.0
+Winter Fest,Push Notification,84,Delivered,Opened,Clicked,Converted,122,2025-01-24 17:58:31,Not Opened,Not Clicked,2025-01-07 02:19:46,52,Male,New York,1.0,1.0
+Summer Sale,Push Notification,86,Delivered,Opened,Clicked,Converted,181,2024-12-29 21:45:30,Not Opened,2025-01-09 06:09:39,Not Converted,51,Non-Binary,San Francisco,1.0,1.0
+Winter Fest,Push Notification,88,Delivered,Not Opened,Not Clicked,Not Converted,90,2025-01-03 11:26:12,2025-01-22 12:52:58,2025-01-03 18:14:42,2025-01-14 20:53:37,43,Female,Chicago,0.0,0.0
+Loyalty Program,Email,89,Delivered,Opened,Not Clicked,Converted,219,2025-01-14 12:24:16,2025-01-19 12:26:32,Not Clicked,2025-01-14 09:28:05,51,Male,Miami,0.0,1.0
+Black Friday,SMS,90,Delivered,Opened,Clicked,Converted,478,2025-01-19 23:20:00,2025-01-20 00:17:40,2025-01-18 06:33:37,2024-12-30 14:56:04,59,Non-Binary,San Francisco,1.0,1.0
+Black Friday,Push Notification,91,Delivered,Opened,Not Clicked,Converted,503,2025-01-17 05:14:17,Not Opened,2025-01-17 02:03:47,2025-01-03 15:33:59,48,Non-Binary,Miami,0.0,1.0
+Holiday Specials,Email,92,Delivered,Opened,Not Clicked,Not Converted,160,2025-01-11 04:39:22,Not Opened,Not Clicked,2025-01-03 13:17:46,65,Male,New York,0.0,0.0
+New Product Launch,Push Notification,96,Delivered,Opened,Clicked,Not Converted,187,2025-01-10 13:20:09,Not Opened,2025-01-24 17:39:50,2025-01-17 12:37:21,58,Female,New York,1.0,0.0
+Summer Sale,SMS,98,Delivered,Not Opened,Clicked,Converted,88,2025-01-16 18:46:22,Not Opened,Not Clicked,2025-01-12 10:59:00,18,Female,Miami,1.0,1.0
+New Product Launch,Email,99,Delivered,Opened,Not Clicked,Not Converted,590,2024-12-29 20:21:18,2025-01-20 03:11:03,2024-12-30 00:25:07,Not Converted,45,Female,San Francisco,0.0,0.0
+Summer Sale,Push Notification,103,Delivered,Not Opened,Not Clicked,Converted,37,2025-01-08 04:05:37,Not Opened,2025-01-19 22:49:38,2025-01-09 07:40:54,39,Male,New York,0.0,1.0
+Winter Fest,Email,104,Delivered,Opened,Clicked,Converted,234,2025-01-25 13:39:57,Not Opened,2025-01-16 02:21:36,Not Converted,25,Female,Chicago,1.0,1.0
+Holiday Specials,Email,106,Delivered,Opened,Not Clicked,Not Converted,494,2025-01-19 11:39:50,Not Opened,2025-01-06 11:53:14,Not Converted,20,Male,New York,0.0,0.0
+Black Friday,Push Notification,107,Delivered,Not Opened,Clicked,Not Converted,581,2025-01-25 19:07:57,Not Opened,Not Clicked,Not Converted,27,Male,New York,1.0,0.0
+Summer Sale,SMS,108,Delivered,Not Opened,Clicked,Converted,158,2025-01-01 06:14:41,2025-01-25 21:39:01,Not Clicked,Not Converted,23,Female,Miami,1.0,1.0
+Loyalty Program,Email,110,Delivered,Opened,Clicked,Not Converted,229,2025-01-11 20:37:47,2025-01-26 06:25:06,Not Clicked,Not Converted,45,Non-Binary,Chicago,1.0,0.0
+Loyalty Program,Push Notification,112,Delivered,Opened,Not Clicked,Converted,307,2025-01-05 19:12:42,2025-01-13 16:14:05,Not Clicked,Not Converted,56,Female,Los Angeles,0.0,1.0
+Loyalty Program,Push Notification,113,Delivered,Opened,Clicked,Not Converted,559,2024-12-31 14:36:26,Not Opened,2025-01-24 09:02:03,Not Converted,45,Female,Chicago,1.0,0.0
+New Product Launch,SMS,115,Delivered,Not Opened,Not Clicked,Not Converted,428,2024-12-30 07:20:11,Not Opened,2025-01-21 20:06:25,Not Converted,61,Non-Binary,Houston,0.0,0.0
+New Product Launch,Email,116,Delivered,Not Opened,Not Clicked,Converted,87,2025-01-02 18:09:21,2025-01-03 14:07:37,Not Clicked,2025-01-11 18:57:49,25,Non-Binary,New York,0.0,1.0
+Black Friday,SMS,117,Delivered,Opened,Not Clicked,Converted,64,2024-12-29 19:30:39,Not Opened,Not Clicked,2025-01-19 13:29:40,37,Female,Houston,0.0,1.0
+Black Friday,SMS,118,Delivered,Not Opened,Not Clicked,Converted,479,2025-01-25 12:13:16,Not Opened,Not Clicked,Not Converted,58,Male,Miami,0.0,1.0
+Loyalty Program,Email,119,Delivered,Not Opened,Not Clicked,Not Converted,84,2025-01-11 00:16:14,2025-01-22 19:05:00,Not Clicked,2025-01-15 01:39:06,51,Male,Chicago,0.0,0.0
+New Product Launch,Push Notification,123,Delivered,Not Opened,Clicked,Not Converted,587,2025-01-25 15:54:37,Not Opened,Not Clicked,2025-01-08 09:36:00,46,Non-Binary,New York,1.0,0.0
+Summer Sale,Email,124,Delivered,Not Opened,Clicked,Converted,60,2025-01-23 17:13:56,Not Opened,2025-01-19 14:20:35,2025-01-04 11:56:17,65,Male,Los Angeles,1.0,1.0
+Loyalty Program,Push Notification,125,Delivered,Not Opened,Clicked,Converted,181,2025-01-19 20:22:00,2024-12-28 14:23:45,2025-01-22 03:20:08,Not Converted,53,Male,Miami,1.0,1.0
+Winter Fest,Email,127,Delivered,Not Opened,Not Clicked,Converted,220,2025-01-12 23:25:28,2025-01-12 09:38:51,2025-01-20 19:54:45,Not Converted,62,Non-Binary,Houston,0.0,1.0
+Summer Sale,Push Notification,128,Delivered,Opened,Clicked,Not Converted,432,2025-01-22 06:28:52,2025-01-26 17:27:39,Not Clicked,2025-01-12 09:13:05,48,Female,Houston,1.0,0.0
+Winter Fest,SMS,130,Delivered,Opened,Clicked,Not Converted,229,2025-01-20 10:58:08,2025-01-01 17:31:53,Not Clicked,Not Converted,21,Female,Chicago,1.0,0.0
+Summer Sale,SMS,135,Delivered,Opened,Clicked,Not Converted,235,2025-01-19 15:35:02,Not Opened,Not Clicked,Not Converted,59,Non-Binary,New York,1.0,0.0
+Holiday Specials,Push Notification,136,Delivered,Not Opened,Clicked,Converted,167,2025-01-20 04:58:21,Not Opened,Not Clicked,2025-01-01 03:41:50,57,Male,New York,1.0,1.0
+Summer Sale,Push Notification,138,Delivered,Opened,Not Clicked,Not Converted,524,2025-01-22 08:41:05,Not Opened,2025-01-12 10:44:59,Not Converted,36,Female,San Francisco,0.0,0.0
+Summer Sale,Email,140,Delivered,Not Opened,Clicked,Not Converted,46,2024-12-28 12:41:22,Not Opened,Not Clicked,Not Converted,63,Non-Binary,Houston,1.0,0.0
+Summer Sale,SMS,142,Delivered,Opened,Not Clicked,Not Converted,215,2025-01-06 15:58:01,Not Opened,Not Clicked,Not Converted,21,Male,New York,0.0,0.0
+New Product Launch,SMS,143,Delivered,Opened,Clicked,Converted,345,2025-01-10 02:31:05,Not Opened,Not Clicked,2025-01-13 18:26:18,27,Female,San Francisco,1.0,1.0
+New Product Launch,Email,144,Delivered,Not Opened,Not Clicked,Not Converted,552,2025-01-13 03:40:37,2025-01-26 13:30:40,Not Clicked,Not Converted,63,Female,San Francisco,0.0,0.0
+Summer Sale,SMS,145,Delivered,Not Opened,Not Clicked,Not Converted,514,2025-01-11 13:54:46,Not Opened,Not Clicked,2024-12-28 19:54:29,63,Non-Binary,Los Angeles,0.0,0.0
+Loyalty Program,Push Notification,146,Delivered,Opened,Not Clicked,Converted,200,2025-01-25 06:58:57,Not Opened,2025-01-04 17:01:44,2025-01-09 15:58:11,57,Male,Chicago,0.0,1.0
+Black Friday,Email,147,Delivered,Opened,Not Clicked,Converted,395,2025-01-13 05:25:19,2025-01-25 13:52:45,2025-01-04 10:44:21,Not Converted,65,Female,San Francisco,0.0,1.0
+Winter Fest,SMS,149,Delivered,Opened,Not Clicked,Not Converted,118,2025-01-20 20:17:11,Not Opened,Not Clicked,Not Converted,24,Non-Binary,Los Angeles,0.0,0.0
+Black Friday,SMS,152,Delivered,Opened,Clicked,Converted,275,2025-01-01 08:11:46,2025-01-22 19:53:10,2025-01-10 16:52:21,2025-01-03 06:44:58,28,Female,Los Angeles,1.0,1.0
+Holiday Specials,Email,157,Delivered,Opened,Not Clicked,Converted,575,2025-01-03 05:55:11,2025-01-11 09:26:41,Not Clicked,2025-01-03 11:15:07,26,Male,Miami,0.0,1.0
+New Product Launch,Email,161,Delivered,Opened,Clicked,Converted,162,2024-12-30 17:06:25,Not Opened,2025-01-04 23:00:21,Not Converted,55,Male,Houston,1.0,1.0
+Summer Sale,Push Notification,163,Delivered,Not Opened,Not Clicked,Not Converted,110,2025-01-01 14:04:24,Not Opened,Not Clicked,Not Converted,31,Male,New York,0.0,0.0
+Summer Sale,SMS,165,Delivered,Opened,Clicked,Not Converted,355,2025-01-15 20:31:00,Not Opened,Not Clicked,2025-01-09 17:24:46,58,Female,Houston,1.0,0.0
+Holiday Specials,SMS,166,Delivered,Opened,Clicked,Converted,1,2025-01-16 15:14:35,2025-01-21 00:42:58,Not Clicked,2025-01-25 02:14:12,31,Female,Houston,1.0,1.0
+New Product Launch,Email,167,Delivered,Not Opened,Clicked,Not Converted,163,2025-01-10 23:04:27,Not Opened,2025-01-05 11:47:08,2025-01-24 17:35:48,63,Male,Miami,1.0,0.0
+New Product Launch,SMS,168,Delivered,Not Opened,Not Clicked,Not Converted,54,2025-01-22 10:03:50,2025-01-16 19:48:21,2025-01-05 06:27:36,Not Converted,22,Male,San Francisco,0.0,0.0
+Summer Sale,Email,175,Delivered,Not Opened,Clicked,Not Converted,131,2025-01-07 05:46:03,Not Opened,Not Clicked,2025-01-11 01:07:10,26,Female,Chicago,1.0,0.0
+Holiday Specials,Push Notification,183,Delivered,Opened,Not Clicked,Converted,239,2025-01-09 22:14:51,2025-01-01 17:32:11,Not Clicked,Not Converted,57,Female,Houston,0.0,1.0
+New Product Launch,Email,185,Delivered,Not Opened,Not Clicked,Converted,322,2025-01-05 00:13:37,2025-01-02 15:34:20,2025-01-14 13:54:31,2025-01-25 23:48:30,25,Male,Miami,0.0,1.0
+Loyalty Program,SMS,186,Delivered,Not Opened,Clicked,Not Converted,153,2025-01-15 19:59:07,Not Opened,Not Clicked,2025-01-19 04:19:15,31,Male,San Francisco,1.0,0.0
+Holiday Specials,Email,187,Delivered,Not Opened,Not Clicked,Not Converted,406,2025-01-02 23:46:46,Not Opened,2025-01-12 02:32:13,2025-01-07 00:23:36,25,Male,Miami,0.0,0.0
+Summer Sale,Push Notification,193,Delivered,Not Opened,Clicked,Not Converted,123,2025-01-11 20:45:55,2025-01-23 07:38:00,Not Clicked,Not Converted,38,Male,Houston,1.0,0.0
+Black Friday,Email,195,Delivered,Not Opened,Not Clicked,Not Converted,433,2025-01-18 06:05:14,2025-01-04 09:29:58,Not Clicked,2025-01-03 23:14:12,63,Male,Los Angeles,0.0,0.0
+Holiday Specials,Email,196,Delivered,Opened,Not Clicked,Converted,592,2025-01-12 22:49:05,Not Opened,2025-01-20 01:47:33,Not Converted,55,Female,Los Angeles,0.0,1.0
+Black Friday,Push Notification,200,Delivered,Opened,Not Clicked,Converted,585,2025-01-07 02:46:22,Not Opened,Not Clicked,2024-12-28 00:58:09,35,Female,San Francisco,0.0,1.0
+Holiday Specials,Push Notification,201,Delivered,Not Opened,Not Clicked,Converted,117,2024-12-27 23:58:52,2025-01-02 19:02:17,2025-01-05 02:33:25,Not Converted,44,Female,Houston,0.0,1.0
+Black Friday,Push Notification,202,Delivered,Not Opened,Not Clicked,Converted,195,2025-01-11 18:17:05,Not Opened,Not Clicked,Not Converted,29,Male,Los Angeles,0.0,1.0
+New Product Launch,Push Notification,203,Delivered,Not Opened,Clicked,Not Converted,388,2025-01-18 20:21:39,Not Opened,Not Clicked,Not Converted,24,Female,Chicago,1.0,0.0
+New Product Launch,SMS,204,Delivered,Opened,Clicked,Converted,369,2025-01-21 04:55:20,2025-01-09 16:17:23,Not Clicked,2025-01-12 07:15:58,56,Female,Miami,1.0,1.0
+New Product Launch,Email,207,Delivered,Not Opened,Not Clicked,Converted,66,2025-01-17 00:11:11,Not Opened,2025-01-21 17:04:50,2025-01-19 16:10:52,33,Non-Binary,Chicago,0.0,1.0
+Winter Fest,Email,209,Delivered,Opened,Clicked,Converted,323,2025-01-06 14:19:10,2025-01-19 19:33:00,2025-01-14 12:19:41,2025-01-17 19:47:38,36,Non-Binary,Los Angeles,1.0,1.0
+Summer Sale,SMS,210,Delivered,Not Opened,Clicked,Converted,192,2025-01-12 02:18:00,2025-01-26 22:28:52,Not Clicked,2025-01-11 08:25:04,51,Male,Houston,1.0,1.0
+Black Friday,Email,211,Delivered,Opened,Not Clicked,Not Converted,271,2025-01-05 21:49:04,Not Opened,Not Clicked,Not Converted,48,Non-Binary,Los Angeles,0.0,0.0
+Winter Fest,SMS,212,Delivered,Opened,Not Clicked,Converted,433,2025-01-02 23:12:13,2025-01-14 01:49:33,2025-01-13 14:19:03,2025-01-15 17:00:51,59,Non-Binary,New York,0.0,1.0
+Loyalty Program,Push Notification,218,Delivered,Opened,Not Clicked,Not Converted,585,2024-12-29 14:09:07,2024-12-28 17:56:56,2025-01-07 01:15:55,Not Converted,23,Female,Miami,0.0,0.0
+New Product Launch,Push Notification,219,Delivered,Opened,Clicked,Not Converted,576,2024-12-31 22:44:37,2025-01-02 15:14:44,2025-01-11 02:23:30,Not Converted,56,Female,Chicago,1.0,0.0
+Black Friday,Email,220,Delivered,Not Opened,Not Clicked,Converted,567,2025-01-26 10:49:13,Not Opened,Not Clicked,2025-01-10 23:37:52,58,Non-Binary,Chicago,0.0,1.0
+Winter Fest,Email,221,Delivered,Not Opened,Not Clicked,Not Converted,13,2025-01-02 11:26:19,2025-01-05 11:55:24,Not Clicked,Not Converted,44,Female,Los Angeles,0.0,0.0
+New Product Launch,Email,223,Delivered,Not Opened,Not Clicked,Converted,378,2025-01-02 16:46:06,Not Opened,2025-01-16 15:41:24,Not Converted,32,Male,Miami,0.0,1.0
+Winter Fest,SMS,227,Delivered,Not Opened,Not Clicked,Converted,315,2025-01-04 08:39:35,Not Opened,2025-01-03 11:51:09,Not Converted,22,Non-Binary,New York,0.0,1.0
+New Product Launch,Push Notification,229,Delivered,Opened,Not Clicked,Converted,309,2025-01-16 04:09:31,2025-01-12 01:01:11,Not Clicked,2025-01-21 07:00:09,55,Female,Chicago,0.0,1.0
+Black Friday,SMS,231,Delivered,Not Opened,Not Clicked,Not Converted,51,2025-01-06 21:08:23,Not Opened,2025-01-12 14:30:03,Not Converted,49,Male,San Francisco,0.0,0.0
+Holiday Specials,SMS,232,Delivered,Not Opened,Not Clicked,Converted,377,2025-01-16 09:05:19,Not Opened,2025-01-10 15:27:00,Not Converted,29,Male,New York,0.0,1.0
+New Product Launch,Push Notification,237,Delivered,Opened,Clicked,Converted,81,2025-01-23 19:39:09,Not Opened,2025-01-02 18:02:09,2025-01-09 16:06:27,50,Non-Binary,San Francisco,1.0,1.0
+Holiday Specials,Email,241,Delivered,Opened,Clicked,Not Converted,34,2025-01-05 13:12:20,2025-01-10 04:10:10,2025-01-02 12:37:53,Not Converted,45,Non-Binary,Los Angeles,1.0,0.0
+Black Friday,Push Notification,242,Delivered,Not Opened,Clicked,Not Converted,368,2025-01-23 02:45:30,Not Opened,2025-01-12 20:03:40,Not Converted,25,Male,Chicago,1.0,0.0
+Black Friday,Email,245,Delivered,Not Opened,Not Clicked,Converted,122,2025-01-05 20:28:33,Not Opened,Not Clicked,Not Converted,38,Male,New York,0.0,1.0
+Winter Fest,Email,247,Delivered,Opened,Clicked,Not Converted,533,2025-01-26 20:39:41,Not Opened,2025-01-08 13:46:48,Not Converted,45,Male,Chicago,1.0,0.0
+Winter Fest,Push Notification,248,Delivered,Opened,Clicked,Converted,161,2025-01-05 14:04:09,2025-01-16 03:35:04,2025-01-22 05:22:59,Not Converted,23,Female,Los Angeles,1.0,1.0
+Holiday Specials,SMS,249,Delivered,Not Opened,Not Clicked,Not Converted,100,2025-01-08 00:05:20,2025-01-12 14:15:11,2025-01-12 10:53:38,Not Converted,35,Female,Los Angeles,0.0,0.0
+New Product Launch,Push Notification,251,Delivered,Opened,Clicked,Converted,59,2025-01-04 09:41:24,2025-01-12 22:11:47,2025-01-24 09:03:40,Not Converted,50,Female,New York,1.0,1.0
+Winter Fest,SMS,254,Delivered,Opened,Clicked,Converted,501,2025-01-19 03:31:19,Not Opened,2025-01-04 10:35:16,Not Converted,37,Female,Houston,1.0,1.0
+Summer Sale,Push Notification,255,Delivered,Opened,Not Clicked,Not Converted,238,2024-12-30 20:41:16,Not Opened,Not Clicked,2024-12-30 12:04:51,59,Female,New York,0.0,0.0
+Winter Fest,SMS,256,Delivered,Not Opened,Not Clicked,Converted,91,2025-01-16 16:02:16,2024-12-29 20:25:09,Not Clicked,Not Converted,20,Female,Miami,0.0,1.0
+Loyalty Program,Email,260,Delivered,Opened,Not Clicked,Converted,452,2025-01-09 19:02:09,2025-01-19 18:42:31,2025-01-25 00:45:39,2025-01-18 12:20:18,39,Female,New York,0.0,1.0
+Holiday Specials,SMS,261,Delivered,Opened,Clicked,Not Converted,360,2025-01-12 19:52:15,2025-01-08 12:08:00,Not Clicked,Not Converted,29,Non-Binary,Los Angeles,1.0,0.0
+Summer Sale,Email,263,Delivered,Not Opened,Not Clicked,Converted,244,2025-01-19 07:02:39,2025-01-09 03:22:57,2025-01-07 19:31:29,2025-01-01 12:19:11,56,Non-Binary,Houston,0.0,1.0
+Black Friday,Push Notification,266,Delivered,Opened,Not Clicked,Not Converted,121,2025-01-22 06:02:43,2025-01-22 12:56:34,Not Clicked,Not Converted,44,Female,Miami,0.0,0.0
+New Product Launch,Email,268,Delivered,Not Opened,Clicked,Not Converted,417,2025-01-07 08:12:29,2025-01-04 00:13:24,Not Clicked,2024-12-31 06:30:58,43,Non-Binary,New York,1.0,0.0
+Summer Sale,Email,270,Delivered,Not Opened,Clicked,Not Converted,197,2025-01-02 09:48:01,Not Opened,Not Clicked,Not Converted,31,Male,New York,1.0,0.0
+Winter Fest,Email,272,Delivered,Not Opened,Clicked,Converted,319,2025-01-25 22:45:34,Not Opened,Not Clicked,2025-01-12 23:32:45,58,Non-Binary,Miami,1.0,1.0
+Winter Fest,SMS,278,Delivered,Not Opened,Not Clicked,Not Converted,405,2024-12-31 05:27:27,Not Opened,2025-01-11 14:21:57,2025-01-04 21:02:38,24,Non-Binary,San Francisco,0.0,0.0
+Winter Fest,SMS,279,Delivered,Opened,Clicked,Converted,382,2024-12-29 16:55:09,Not Opened,2025-01-04 18:38:17,2025-01-25 11:48:38,53,Female,Los Angeles,1.0,1.0
+New Product Launch,Email,280,Delivered,Not Opened,Clicked,Converted,54,2025-01-24 17:40:34,2025-01-17 02:18:30,Not Clicked,2025-01-14 09:46:30,51,Female,Los Angeles,1.0,1.0
+Winter Fest,Email,282,Delivered,Opened,Not Clicked,Not Converted,296,2025-01-11 19:06:34,Not Opened,Not Clicked,2025-01-10 03:43:30,53,Female,Miami,0.0,0.0
+Winter Fest,Push Notification,284,Delivered,Opened,Clicked,Not Converted,49,2024-12-30 23:23:20,2025-01-03 18:31:03,Not Clicked,2025-01-16 13:07:01,48,Female,Houston,1.0,0.0
+New Product Launch,SMS,285,Delivered,Not Opened,Not Clicked,Converted,265,2025-01-08 05:21:50,Not Opened,2025-01-17 11:52:04,Not Converted,61,Non-Binary,Miami,0.0,1.0
+Winter Fest,Push Notification,287,Delivered,Opened,Clicked,Not Converted,400,2025-01-26 11:19:42,2025-01-10 05:57:49,Not Clicked,Not Converted,43,Female,New York,1.0,0.0
+Winter Fest,SMS,288,Delivered,Not Opened,Not Clicked,Not Converted,68,2025-01-20 21:13:59,Not Opened,Not Clicked,2025-01-10 08:30:35,44,Non-Binary,Los Angeles,0.0,0.0
+Holiday Specials,Push Notification,290,Delivered,Opened,Not Clicked,Converted,480,2025-01-22 19:05:34,Not Opened,Not Clicked,Not Converted,20,Female,Los Angeles,0.0,1.0
+New Product Launch,Push Notification,292,Delivered,Opened,Clicked,Converted,122,2025-01-17 05:26:10,2025-01-01 03:48:09,2025-01-24 01:35:38,Not Converted,58,Female,Los Angeles,1.0,1.0
+Summer Sale,SMS,293,Delivered,Opened,Not Clicked,Not Converted,430,2025-01-23 15:40:51,Not Opened,Not Clicked,Not Converted,47,Non-Binary,Chicago,0.0,0.0
+Winter Fest,Email,294,Delivered,Opened,Clicked,Converted,14,2025-01-13 02:49:53,Not Opened,Not Clicked,Not Converted,37,Female,Miami,1.0,1.0
+Summer Sale,Email,295,Delivered,Not Opened,Not Clicked,Not Converted,341,2025-01-04 17:51:23,2025-01-03 07:55:44,Not Clicked,2025-01-21 12:43:24,26,Non-Binary,Chicago,0.0,0.0
+Winter Fest,Email,298,Delivered,Not Opened,Clicked,Converted,376,2024-12-29 20:29:52,Not Opened,Not Clicked,2025-01-12 11:50:17,27,Female,San Francisco,1.0,1.0
+Summer Sale,SMS,299,Delivered,Opened,Clicked,Converted,130,2025-01-19 10:26:57,2025-01-09 05:10:23,Not Clicked,2025-01-21 00:12:50,46,Female,New York,1.0,1.0
+Holiday Specials,Push Notification,300,Delivered,Not Opened,Clicked,Converted,335,2025-01-09 20:43:28,2025-01-04 06:31:52,2025-01-09 11:29:34,Not Converted,44,Female,Chicago,1.0,1.0
+Holiday Specials,SMS,303,Delivered,Opened,Clicked,Not Converted,114,2024-12-28 16:14:50,Not Opened,Not Clicked,2025-01-08 21:46:13,24,Female,New York,1.0,0.0
+Summer Sale,SMS,309,Delivered,Not Opened,Not Clicked,Not Converted,424,2025-01-24 08:46:50,2025-01-08 12:24:10,Not Clicked,Not Converted,60,Female,New York,0.0,0.0
+Summer Sale,Email,311,Delivered,Not Opened,Clicked,Not Converted,198,2025-01-21 16:32:26,2025-01-22 19:47:44,2025-01-23 04:07:40,Not Converted,45,Non-Binary,San Francisco,1.0,0.0
+Loyalty Program,Push Notification,312,Delivered,Not Opened,Clicked,Not Converted,207,2025-01-19 00:35:57,2025-01-05 21:28:14,Not Clicked,2024-12-30 04:25:18,19,Male,New York,1.0,0.0
+Winter Fest,Push Notification,313,Delivered,Not Opened,Not Clicked,Not Converted,182,2025-01-23 00:36:06,Not Opened,2025-01-15 00:00:11,2025-01-20 03:31:57,51,Non-Binary,San Francisco,0.0,0.0
+Holiday Specials,Push Notification,322,Delivered,Not Opened,Clicked,Not Converted,553,2025-01-08 14:10:12,2025-01-24 01:52:34,2025-01-24 10:44:13,2025-01-03 20:48:03,52,Male,Houston,1.0,0.0
+New Product Launch,Push Notification,326,Delivered,Not Opened,Not Clicked,Not Converted,411,2025-01-13 20:01:04,2025-01-17 19:53:52,2024-12-28 01:22:43,Not Converted,61,Female,San Francisco,0.0,0.0
+Holiday Specials,Push Notification,327,Delivered,Not Opened,Not Clicked,Not Converted,506,2025-01-16 03:32:04,Not Opened,2025-01-14 21:33:48,Not Converted,21,Female,New York,0.0,0.0
+Summer Sale,SMS,328,Delivered,Not Opened,Clicked,Not Converted,328,2025-01-03 18:08:33,Not Opened,2025-01-02 15:43:00,Not Converted,28,Non-Binary,San Francisco,1.0,0.0
+New Product Launch,Email,332,Delivered,Not Opened,Clicked,Not Converted,181,2025-01-25 08:15:39,Not Opened,2025-01-24 02:55:02,Not Converted,22,Non-Binary,Houston,1.0,0.0
+Holiday Specials,Email,334,Delivered,Not Opened,Clicked,Not Converted,564,2025-01-04 03:58:43,Not Opened,2025-01-15 08:12:26,Not Converted,41,Non-Binary,Houston,1.0,0.0
+Summer Sale,SMS,335,Delivered,Not Opened,Clicked,Converted,251,2025-01-18 10:30:15,Not Opened,2024-12-31 01:53:54,2025-01-09 08:32:30,25,Male,New York,1.0,1.0
+Summer Sale,Email,340,Delivered,Not Opened,Not Clicked,Not Converted,13,2025-01-12 09:25:08,Not Opened,Not Clicked,2025-01-15 13:53:52,26,Non-Binary,San Francisco,0.0,0.0
+Holiday Specials,SMS,346,Delivered,Opened,Not Clicked,Converted,339,2025-01-17 18:41:41,Not Opened,Not Clicked,2024-12-31 21:06:52,39,Female,New York,0.0,1.0
+New Product Launch,SMS,349,Delivered,Not Opened,Clicked,Converted,320,2025-01-22 22:59:11,Not Opened,2025-01-11 13:22:32,Not Converted,63,Male,Los Angeles,1.0,1.0
+Winter Fest,SMS,355,Delivered,Opened,Clicked,Converted,171,2025-01-03 16:29:38,Not Opened,2025-01-24 10:54:27,Not Converted,21,Male,San Francisco,1.0,1.0
+Holiday Specials,SMS,357,Delivered,Opened,Clicked,Not Converted,556,2025-01-16 14:05:15,2025-01-04 01:29:18,Not Clicked,2025-01-10 12:51:51,27,Male,Los Angeles,1.0,0.0
+Holiday Specials,Push Notification,361,Delivered,Opened,Clicked,Not Converted,224,2025-01-04 12:31:41,2025-01-18 22:45:26,Not Clicked,Not Converted,57,Non-Binary,Los Angeles,1.0,0.0
+New Product Launch,Email,362,Delivered,Not Opened,Clicked,Converted,217,2025-01-22 01:50:21,2025-01-24 14:25:25,Not Clicked,2025-01-13 10:21:14,39,Non-Binary,Miami,1.0,1.0
+Summer Sale,SMS,363,Delivered,Not Opened,Not Clicked,Converted,154,2025-01-11 11:17:18,Not Opened,Not Clicked,2024-12-30 07:40:49,26,Female,Miami,0.0,1.0
+Loyalty Program,Email,364,Delivered,Opened,Clicked,Not Converted,567,2025-01-11 01:59:29,Not Opened,2025-01-25 22:05:29,Not Converted,63,Female,Los Angeles,1.0,0.0
+Loyalty Program,SMS,366,Delivered,Opened,Not Clicked,Not Converted,463,2025-01-11 07:59:44,Not Opened,2025-01-10 03:34:37,2024-12-30 23:36:21,49,Non-Binary,Chicago,0.0,0.0
+Summer Sale,Email,367,Delivered,Opened,Not Clicked,Converted,429,2025-01-11 02:45:57,Not Opened,Not Clicked,Not Converted,22,Non-Binary,Miami,0.0,1.0
+Holiday Specials,Push Notification,368,Delivered,Not Opened,Clicked,Converted,524,2025-01-08 17:33:02,Not Opened,Not Clicked,2025-01-07 10:49:00,32,Non-Binary,Chicago,1.0,1.0
+Winter Fest,Push Notification,370,Delivered,Opened,Clicked,Not Converted,594,2025-01-20 01:52:08,Not Opened,Not Clicked,Not Converted,49,Non-Binary,New York,1.0,0.0
+Holiday Specials,Push Notification,371,Delivered,Opened,Not Clicked,Converted,70,2025-01-09 10:53:19,2025-01-05 21:11:02,Not Clicked,Not Converted,63,Male,Houston,0.0,1.0
+New Product Launch,Push Notification,373,Delivered,Not Opened,Not Clicked,Not Converted,141,2025-01-01 00:57:25,2025-01-17 09:26:29,2025-01-14 23:58:29,2025-01-07 15:09:32,55,Male,Chicago,0.0,0.0
+Holiday Specials,SMS,374,Delivered,Not Opened,Clicked,Not Converted,336,2025-01-02 18:36:49,Not Opened,Not Clicked,2025-01-19 15:24:33,45,Male,Miami,1.0,0.0
+New Product Launch,Push Notification,376,Delivered,Not Opened,Clicked,Not Converted,464,2025-01-22 06:00:46,2024-12-31 15:59:30,Not Clicked,Not Converted,38,Female,San Francisco,1.0,0.0
+Loyalty Program,Push Notification,380,Delivered,Not Opened,Not Clicked,Not Converted,149,2024-12-30 14:28:58,2025-01-12 15:21:18,Not Clicked,Not Converted,22,Male,Miami,0.0,0.0
+Black Friday,Push Notification,383,Delivered,Opened,Clicked,Converted,221,2024-12-31 03:39:45,Not Opened,Not Clicked,2025-01-07 04:21:51,53,Male,New York,1.0,1.0
+New Product Launch,SMS,384,Delivered,Not Opened,Clicked,Not Converted,261,2025-01-25 10:50:00,Not Opened,Not Clicked,Not Converted,42,Non-Binary,New York,1.0,0.0
+Black Friday,Push Notification,385,Delivered,Not Opened,Clicked,Converted,131,2025-01-20 04:14:36,2025-01-21 20:16:54,2025-01-15 19:51:35,2024-12-29 12:07:50,56,Female,Chicago,1.0,1.0
+Holiday Specials,SMS,386,Delivered,Opened,Clicked,Not Converted,540,2025-01-04 08:08:16,2025-01-15 23:22:28,2025-01-20 18:26:20,Not Converted,61,Non-Binary,Los Angeles,1.0,0.0
+Summer Sale,Push Notification,387,Delivered,Opened,Clicked,Converted,163,2025-01-10 04:10:43,Not Opened,Not Clicked,2025-01-10 19:08:25,24,Female,Miami,1.0,1.0
+Loyalty Program,SMS,388,Delivered,Not Opened,Not Clicked,Converted,550,2025-01-15 04:14:23,2025-01-24 12:22:30,Not Clicked,Not Converted,48,Female,Chicago,0.0,1.0
+New Product Launch,SMS,390,Delivered,Opened,Not Clicked,Converted,363,2025-01-20 23:00:08,2025-01-15 06:52:56,Not Clicked,2024-12-30 23:38:37,62,Female,Miami,0.0,1.0
+New Product Launch,SMS,391,Delivered,Opened,Clicked,Not Converted,298,2025-01-15 19:05:32,Not Opened,Not Clicked,2025-01-14 04:59:47,28,Female,New York,1.0,0.0
+Summer Sale,SMS,393,Delivered,Not Opened,Not Clicked,Converted,400,2025-01-10 00:16:55,2025-01-23 23:19:33,Not Clicked,Not Converted,40,Female,Los Angeles,0.0,1.0
+Loyalty Program,Push Notification,396,Delivered,Not Opened,Not Clicked,Not Converted,552,2025-01-07 05:31:54,Not Opened,2025-01-15 06:28:04,Not Converted,32,Male,San Francisco,0.0,0.0
+Holiday Specials,SMS,400,Delivered,Not Opened,Not Clicked,Converted,59,2025-01-07 08:10:58,Not Opened,Not Clicked,2025-01-12 00:55:36,54,Non-Binary,Chicago,0.0,1.0
+New Product Launch,Email,401,Delivered,Not Opened,Clicked,Not Converted,165,2025-01-14 08:25:23,Not Opened,2025-01-22 15:35:20,2025-01-05 03:46:24,62,Non-Binary,Houston,1.0,0.0
+New Product Launch,Email,402,Delivered,Not Opened,Clicked,Not Converted,297,2025-01-12 17:04:53,2025-01-24 22:03:49,2025-01-11 01:51:43,Not Converted,43,Non-Binary,Los Angeles,1.0,0.0
+Loyalty Program,Push Notification,403,Delivered,Not Opened,Clicked,Converted,50,2025-01-05 14:13:16,Not Opened,2025-01-11 22:18:41,Not Converted,61,Non-Binary,Miami,1.0,1.0
+Holiday Specials,SMS,405,Delivered,Not Opened,Clicked,Not Converted,463,2025-01-13 12:24:57,Not Opened,2024-12-28 01:36:58,Not Converted,37,Non-Binary,New York,1.0,0.0
+Black Friday,Email,407,Delivered,Opened,Not Clicked,Not Converted,182,2025-01-26 09:10:23,Not Opened,2024-12-30 03:29:18,Not Converted,25,Male,Miami,0.0,0.0
+Loyalty Program,Email,410,Delivered,Opened,Not Clicked,Converted,265,2025-01-21 17:23:54,Not Opened,Not Clicked,Not Converted,37,Male,Houston,0.0,1.0
+Loyalty Program,Push Notification,413,Delivered,Not Opened,Not Clicked,Not Converted,355,2025-01-20 10:12:59,Not Opened,Not Clicked,2025-01-15 16:21:25,39,Male,Los Angeles,0.0,0.0
+Holiday Specials,Push Notification,414,Delivered,Opened,Clicked,Converted,454,2024-12-31 08:11:36,2025-01-24 20:37:59,2025-01-11 18:51:37,2025-01-13 10:56:53,63,Female,Houston,1.0,1.0
+Summer Sale,SMS,415,Delivered,Opened,Clicked,Converted,333,2025-01-04 13:11:12,Not Opened,2025-01-01 14:37:45,Not Converted,57,Non-Binary,Los Angeles,1.0,1.0
+Summer Sale,SMS,416,Delivered,Opened,Clicked,Converted,316,2025-01-16 00:26:59,Not Opened,2025-01-19 11:42:52,2025-01-16 07:03:48,25,Female,Chicago,1.0,1.0
+Loyalty Program,Email,418,Delivered,Not Opened,Clicked,Converted,215,2025-01-04 12:02:47,2025-01-26 09:00:17,2025-01-26 03:22:48,Not Converted,30,Male,Chicago,1.0,1.0
+Black Friday,Push Notification,420,Delivered,Not Opened,Clicked,Not Converted,95,2025-01-19 18:56:33,2025-01-23 23:57:22,Not Clicked,2025-01-07 16:31:21,46,Female,New York,1.0,0.0
+New Product Launch,SMS,421,Delivered,Opened,Clicked,Converted,455,2025-01-23 14:20:30,Not Opened,2025-01-17 03:46:35,Not Converted,26,Male,Chicago,1.0,1.0
+Winter Fest,SMS,422,Delivered,Opened,Clicked,Converted,462,2024-12-28 16:07:47,2025-01-08 23:14:53,2025-01-15 04:02:54,Not Converted,54,Male,Los Angeles,1.0,1.0
+Black Friday,SMS,423,Delivered,Not Opened,Not Clicked,Converted,361,2025-01-09 03:10:47,Not Opened,Not Clicked,2025-01-25 12:23:38,61,Male,Chicago,0.0,1.0
+Winter Fest,SMS,425,Delivered,Not Opened,Not Clicked,Converted,581,2025-01-22 09:14:53,Not Opened,2024-12-29 08:21:23,2024-12-28 03:30:27,22,Male,Chicago,0.0,1.0
+Black Friday,Push Notification,429,Delivered,Opened,Not Clicked,Converted,211,2025-01-22 04:02:55,Not Opened,Not Clicked,2025-01-01 00:54:40,22,Female,San Francisco,0.0,1.0
+Holiday Specials,SMS,432,Delivered,Not Opened,Clicked,Converted,122,2025-01-03 02:41:47,2025-01-02 05:41:36,2025-01-01 00:17:16,Not Converted,60,Non-Binary,Miami,1.0,1.0
+Summer Sale,Push Notification,433,Delivered,Opened,Not Clicked,Converted,10,2025-01-10 08:35:25,Not Opened,2025-01-22 04:36:55,2025-01-11 21:05:49,47,Non-Binary,Miami,0.0,1.0
+Loyalty Program,Email,434,Delivered,Not Opened,Not Clicked,Not Converted,31,2025-01-17 20:05:26,Not Opened,2025-01-14 12:16:39,Not Converted,45,Male,Chicago,0.0,0.0
+Summer Sale,SMS,436,Delivered,Not Opened,Not Clicked,Converted,272,2025-01-25 07:06:10,Not Opened,2025-01-24 22:18:14,2024-12-27 22:43:17,32,Non-Binary,Chicago,0.0,1.0
+Winter Fest,SMS,442,Delivered,Not Opened,Not Clicked,Not Converted,216,2025-01-01 22:17:18,Not Opened,2025-01-19 08:42:17,2025-01-19 18:48:50,40,Non-Binary,Miami,0.0,0.0
+Black Friday,SMS,444,Delivered,Not Opened,Not Clicked,Converted,43,2025-01-22 21:36:38,Not Opened,2025-01-01 18:22:44,Not Converted,55,Male,Houston,0.0,1.0
+New Product Launch,Push Notification,446,Delivered,Opened,Clicked,Not Converted,303,2025-01-20 03:31:44,Not Opened,Not Clicked,2025-01-18 20:26:56,49,Male,San Francisco,1.0,0.0
+Black Friday,Push Notification,447,Delivered,Not Opened,Not Clicked,Not Converted,6,2025-01-13 23:29:05,Not Opened,Not Clicked,2025-01-06 09:59:01,58,Non-Binary,Houston,0.0,0.0
+Summer Sale,Email,451,Delivered,Not Opened,Not Clicked,Converted,237,2025-01-06 07:31:30,2025-01-24 11:38:24,Not Clicked,2024-12-31 02:44:59,52,Male,Los Angeles,0.0,1.0
+Holiday Specials,SMS,455,Delivered,Opened,Clicked,Not Converted,530,2025-01-15 03:00:37,Not Opened,2025-01-14 07:34:03,Not Converted,61,Non-Binary,Houston,1.0,0.0
+New Product Launch,SMS,456,Delivered,Not Opened,Not Clicked,Converted,216,2025-01-24 08:31:38,Not Opened,2025-01-02 07:43:31,Not Converted,27,Non-Binary,Los Angeles,0.0,1.0
+Summer Sale,Email,459,Delivered,Not Opened,Clicked,Converted,521,2025-01-14 23:49:10,2025-01-05 03:46:47,2025-01-02 17:52:36,Not Converted,33,Male,San Francisco,1.0,1.0
+Loyalty Program,Email,460,Delivered,Not Opened,Clicked,Not Converted,142,2025-01-02 10:00:46,2025-01-02 16:40:49,2025-01-25 17:11:31,2024-12-31 16:03:30,51,Male,Chicago,1.0,0.0
+Loyalty Program,SMS,463,Delivered,Opened,Clicked,Converted,594,2025-01-09 15:46:09,Not Opened,Not Clicked,2025-01-13 02:38:31,23,Non-Binary,Chicago,1.0,1.0
+Loyalty Program,Email,464,Delivered,Not Opened,Clicked,Not Converted,250,2025-01-14 01:51:13,2025-01-25 03:34:45,2025-01-04 03:21:36,2025-01-15 09:12:13,53,Non-Binary,New York,1.0,0.0
+Winter Fest,Email,465,Delivered,Not Opened,Not Clicked,Not Converted,431,2024-12-31 18:18:08,Not Opened,2025-01-09 21:12:17,Not Converted,58,Male,Houston,0.0,0.0
+Winter Fest,Email,466,Delivered,Opened,Clicked,Converted,410,2025-01-26 12:27:15,Not Opened,Not Clicked,2024-12-31 11:20:20,56,Male,San Francisco,1.0,1.0
+Loyalty Program,Push Notification,467,Delivered,Opened,Not Clicked,Not Converted,170,2025-01-26 10:14:52,2025-01-11 07:15:10,2025-01-23 15:30:15,Not Converted,58,Female,Houston,0.0,0.0
+Black Friday,Email,470,Delivered,Not Opened,Clicked,Converted,66,2025-01-15 17:29:15,2025-01-19 09:50:39,Not Clicked,2024-12-29 02:56:08,65,Female,San Francisco,1.0,1.0
+New Product Launch,SMS,472,Delivered,Not Opened,Not Clicked,Converted,226,2025-01-03 15:45:32,2025-01-22 02:26:06,2025-01-05 06:06:46,Not Converted,56,Male,Miami,0.0,1.0
+Black Friday,Email,473,Delivered,Opened,Clicked,Not Converted,534,2025-01-12 09:36:19,Not Opened,Not Clicked,2025-01-05 21:29:55,44,Non-Binary,Chicago,1.0,0.0
+Black Friday,SMS,474,Delivered,Opened,Clicked,Not Converted,416,2025-01-08 01:18:23,2025-01-14 20:29:51,2025-01-08 17:34:49,Not Converted,61,Male,Chicago,1.0,0.0
+Black Friday,Email,475,Delivered,Opened,Clicked,Not Converted,343,2025-01-22 08:48:43,Not Opened,2025-01-15 22:40:15,Not Converted,20,Male,San Francisco,1.0,0.0
+Winter Fest,SMS,476,Delivered,Not Opened,Not Clicked,Converted,42,2025-01-26 04:38:24,Not Opened,Not Clicked,2025-01-04 14:23:43,42,Female,New York,0.0,1.0
+New Product Launch,Push Notification,477,Delivered,Opened,Clicked,Converted,1,2025-01-17 04:31:36,Not Opened,2025-01-09 19:21:05,2025-01-02 10:32:12,59,Male,San Francisco,1.0,1.0
+Holiday Specials,Email,483,Delivered,Opened,Not Clicked,Not Converted,114,2025-01-16 12:49:06,2025-01-05 07:21:09,2024-12-28 17:50:07,Not Converted,39,Male,Chicago,0.0,0.0
+Loyalty Program,Push Notification,484,Delivered,Not Opened,Clicked,Converted,360,2025-01-04 19:25:28,Not Opened,Not Clicked,Not Converted,20,Female,San Francisco,1.0,1.0
+Loyalty Program,Email,486,Delivered,Not Opened,Clicked,Converted,436,2024-12-31 23:56:59,2025-01-14 14:45:56,Not Clicked,2025-01-08 16:38:51,28,Non-Binary,San Francisco,1.0,1.0
+Holiday Specials,SMS,488,Delivered,Opened,Not Clicked,Not Converted,17,2025-01-20 03:52:23,2025-01-26 09:59:38,Not Clicked,2025-01-23 18:33:33,19,Non-Binary,Miami,0.0,0.0
+Summer Sale,Push Notification,494,Delivered,Not Opened,Not Clicked,Not Converted,48,2025-01-08 22:47:42,Not Opened,Not Clicked,Not Converted,65,Male,San Francisco,0.0,0.0
+Summer Sale,Email,496,Delivered,Not Opened,Not Clicked,Not Converted,413,2025-01-08 15:08:34,2025-01-17 21:51:05,Not Clicked,Not Converted,40,Male,Miami,0.0,0.0
+Summer Sale,Push Notification,499,Delivered,Not Opened,Not Clicked,Not Converted,239,2025-01-13 23:22:13,Not Opened,2025-01-13 02:34:31,Not Converted,33,Female,New York,0.0,0.0
+Winter Fest,SMS,500,Delivered,Opened,Not Clicked,Not Converted,49,2025-01-22 05:11:36,Not Opened,2025-01-12 12:26:43,Not Converted,48,Female,Houston,0.0,0.0
+Loyalty Program,SMS,503,Delivered,Opened,Not Clicked,Not Converted,380,2025-01-21 05:55:53,Not Opened,2025-01-01 17:28:47,2025-01-05 12:16:28,19,Male,Los Angeles,0.0,0.0
+Winter Fest,SMS,506,Delivered,Not Opened,Not Clicked,Not Converted,11,2025-01-11 23:15:12,Not Opened,2025-01-18 11:49:29,2025-01-10 13:33:48,29,Female,Los Angeles,0.0,0.0
+Winter Fest,SMS,508,Delivered,Not Opened,Clicked,Not Converted,114,2024-12-30 20:56:54,2025-01-08 19:00:41,Not Clicked,Not Converted,56,Male,San Francisco,1.0,0.0
+New Product Launch,Push Notification,509,Delivered,Not Opened,Clicked,Converted,57,2025-01-08 03:11:14,2025-01-03 12:16:55,Not Clicked,2025-01-16 00:54:40,38,Female,San Francisco,1.0,1.0
+Holiday Specials,Email,513,Delivered,Opened,Not Clicked,Not Converted,188,2025-01-22 08:25:29,2025-01-24 04:16:06,2025-01-22 11:47:47,2025-01-04 18:26:52,64,Male,Chicago,0.0,0.0
+Holiday Specials,Push Notification,514,Delivered,Opened,Not Clicked,Not Converted,166,2025-01-16 18:44:06,Not Opened,Not Clicked,2025-01-16 08:40:59,41,Male,Los Angeles,0.0,0.0
+Holiday Specials,Email,515,Delivered,Not Opened,Not Clicked,Not Converted,386,2025-01-22 11:55:16,Not Opened,Not Clicked,2025-01-21 13:18:13,51,Male,Los Angeles,0.0,0.0
+Holiday Specials,Email,516,Delivered,Opened,Clicked,Not Converted,255,2025-01-10 22:50:45,Not Opened,Not Clicked,Not Converted,54,Male,San Francisco,1.0,0.0
+New Product Launch,Email,517,Delivered,Not Opened,Not Clicked,Converted,481,2025-01-10 03:13:12,Not Opened,Not Clicked,2025-01-22 04:54:38,22,Non-Binary,San Francisco,0.0,1.0
+Black Friday,Email,518,Delivered,Opened,Clicked,Not Converted,215,2025-01-16 15:43:52,2025-01-24 19:25:31,2025-01-12 09:25:11,2025-01-19 22:15:03,30,Male,San Francisco,1.0,0.0
+Black Friday,SMS,519,Delivered,Opened,Clicked,Not Converted,98,2025-01-19 01:51:09,2025-01-17 00:58:03,Not Clicked,Not Converted,35,Male,San Francisco,1.0,0.0
+Holiday Specials,Email,520,Delivered,Opened,Not Clicked,Not Converted,470,2025-01-23 17:44:00,Not Opened,Not Clicked,Not Converted,44,Male,San Francisco,0.0,0.0
+Summer Sale,SMS,521,Delivered,Not Opened,Clicked,Converted,246,2025-01-16 13:09:02,2024-12-31 06:44:43,Not Clicked,2025-01-18 20:50:10,59,Non-Binary,Chicago,1.0,1.0
+Winter Fest,Push Notification,524,Delivered,Opened,Not Clicked,Not Converted,583,2025-01-13 10:21:23,Not Opened,Not Clicked,Not Converted,34,Male,San Francisco,0.0,0.0
+Holiday Specials,SMS,525,Delivered,Opened,Clicked,Converted,111,2024-12-28 09:37:12,Not Opened,Not Clicked,2024-12-31 00:24:08,64,Female,Chicago,1.0,1.0
+Black Friday,Push Notification,526,Delivered,Opened,Not Clicked,Not Converted,53,2025-01-25 14:24:20,2025-01-08 09:51:27,Not Clicked,2024-12-30 14:20:00,18,Female,Chicago,0.0,0.0
+Loyalty Program,SMS,529,Delivered,Opened,Clicked,Converted,534,2025-01-04 20:48:34,2025-01-03 21:58:47,Not Clicked,Not Converted,46,Non-Binary,Chicago,1.0,1.0
+Loyalty Program,Email,531,Delivered,Not Opened,Clicked,Converted,298,2025-01-22 16:39:43,2025-01-04 09:55:53,Not Clicked,Not Converted,30,Female,Miami,1.0,1.0
+Loyalty Program,Email,532,Delivered,Opened,Clicked,Converted,307,2025-01-24 00:36:21,2025-01-02 22:14:22,Not Clicked,Not Converted,34,Male,San Francisco,1.0,1.0
+Summer Sale,SMS,533,Delivered,Opened,Not Clicked,Converted,154,2024-12-28 02:40:11,2025-01-08 06:09:24,2025-01-09 17:02:03,Not Converted,21,Female,New York,0.0,1.0
+New Product Launch,SMS,537,Delivered,Not Opened,Clicked,Converted,293,2025-01-03 09:13:43,Not Opened,2025-01-01 03:45:52,Not Converted,19,Male,Chicago,1.0,1.0
+Holiday Specials,SMS,538,Delivered,Opened,Clicked,Not Converted,577,2024-12-30 19:03:49,2025-01-19 15:58:36,Not Clicked,2025-01-17 13:16:02,58,Non-Binary,San Francisco,1.0,0.0
+Holiday Specials,Push Notification,539,Delivered,Not Opened,Not Clicked,Not Converted,455,2025-01-01 19:15:25,2025-01-01 15:37:03,Not Clicked,2025-01-04 13:05:38,63,Male,Los Angeles,0.0,0.0
+Winter Fest,Email,540,Delivered,Opened,Clicked,Converted,198,2025-01-09 04:32:31,Not Opened,Not Clicked,2025-01-06 08:13:35,26,Male,New York,1.0,1.0
+Black Friday,Push Notification,542,Delivered,Not Opened,Clicked,Not Converted,508,2024-12-30 18:56:56,Not Opened,Not Clicked,Not Converted,42,Female,New York,1.0,0.0
+Loyalty Program,Push Notification,543,Delivered,Not Opened,Clicked,Not Converted,304,2025-01-22 09:19:36,Not Opened,2025-01-14 03:09:58,2025-01-17 07:18:06,52,Female,San Francisco,1.0,0.0
+Holiday Specials,SMS,546,Delivered,Opened,Not Clicked,Not Converted,276,2024-12-28 19:49:32,Not Opened,Not Clicked,2025-01-15 21:54:43,43,Male,Los Angeles,0.0,0.0
+Summer Sale,Email,547,Delivered,Opened,Not Clicked,Converted,268,2025-01-16 13:07:08,Not Opened,Not Clicked,2025-01-22 19:17:55,26,Non-Binary,Houston,0.0,1.0
+Black Friday,SMS,548,Delivered,Not Opened,Not Clicked,Converted,534,2025-01-24 19:50:47,Not Opened,2025-01-25 09:05:48,Not Converted,49,Non-Binary,Miami,0.0,1.0
+Summer Sale,Push Notification,550,Delivered,Not Opened,Not Clicked,Not Converted,502,2025-01-16 13:09:47,2025-01-07 03:46:42,2025-01-04 22:46:40,Not Converted,34,Female,San Francisco,0.0,0.0
+New Product Launch,Push Notification,551,Delivered,Opened,Not Clicked,Converted,441,2024-12-31 14:36:09,Not Opened,Not Clicked,Not Converted,24,Female,New York,0.0,1.0
+New Product Launch,SMS,553,Delivered,Not Opened,Clicked,Not Converted,158,2025-01-01 18:02:09,2025-01-13 22:23:04,Not Clicked,Not Converted,46,Female,Houston,1.0,0.0
+Holiday Specials,SMS,555,Delivered,Opened,Not Clicked,Not Converted,119,2025-01-05 00:00:02,Not Opened,2025-01-19 10:30:42,Not Converted,55,Male,Miami,0.0,0.0
+New Product Launch,Email,556,Delivered,Not Opened,Clicked,Converted,501,2025-01-14 10:14:51,Not Opened,2025-01-07 17:59:01,2025-01-09 20:36:19,23,Non-Binary,Los Angeles,1.0,1.0
+Holiday Specials,SMS,557,Delivered,Opened,Not Clicked,Converted,65,2025-01-01 09:03:00,Not Opened,Not Clicked,2025-01-14 15:02:44,34,Male,Los Angeles,0.0,1.0
+Black Friday,Email,558,Delivered,Not Opened,Not Clicked,Not Converted,88,2025-01-24 18:27:34,2025-01-12 03:29:35,Not Clicked,Not Converted,23,Female,San Francisco,0.0,0.0
+Black Friday,Email,559,Delivered,Opened,Clicked,Not Converted,446,2025-01-25 08:20:50,Not Opened,Not Clicked,Not Converted,42,Male,Chicago,1.0,0.0
+Summer Sale,Push Notification,560,Delivered,Not Opened,Clicked,Converted,553,2024-12-31 12:44:57,2025-01-19 22:47:57,Not Clicked,2025-01-06 06:01:18,19,Male,San Francisco,1.0,1.0
+Winter Fest,Email,561,Delivered,Not Opened,Not Clicked,Converted,561,2024-12-31 09:19:04,2025-01-06 05:45:44,Not Clicked,Not Converted,33,Male,Miami,0.0,1.0
+Summer Sale,Push Notification,564,Delivered,Opened,Not Clicked,Not Converted,213,2025-01-16 16:19:03,Not Opened,Not Clicked,2025-01-13 10:51:28,46,Male,Chicago,0.0,0.0
+Winter Fest,SMS,565,Delivered,Not Opened,Not Clicked,Not Converted,454,2025-01-24 20:28:20,2025-01-03 09:33:15,Not Clicked,Not Converted,24,Male,Miami,0.0,0.0
+Winter Fest,SMS,566,Delivered,Opened,Clicked,Not Converted,210,2025-01-14 02:09:48,2025-01-04 06:22:57,Not Clicked,2024-12-28 07:02:59,42,Male,San Francisco,1.0,0.0
+Winter Fest,SMS,567,Delivered,Opened,Not Clicked,Not Converted,554,2024-12-29 11:32:46,Not Opened,Not Clicked,Not Converted,59,Female,Chicago,0.0,0.0
+Summer Sale,Email,568,Delivered,Opened,Not Clicked,Not Converted,109,2025-01-15 16:46:21,Not Opened,2025-01-01 14:41:06,2025-01-08 21:31:21,42,Female,San Francisco,0.0,0.0
+Summer Sale,SMS,570,Delivered,Opened,Not Clicked,Not Converted,221,2025-01-22 23:56:31,Not Opened,Not Clicked,2025-01-02 08:08:10,54,Non-Binary,San Francisco,0.0,0.0
+Loyalty Program,Push Notification,572,Delivered,Opened,Not Clicked,Converted,298,2025-01-25 03:58:23,Not Opened,Not Clicked,Not Converted,49,Male,Los Angeles,0.0,1.0
+Black Friday,Push Notification,574,Delivered,Opened,Clicked,Not Converted,91,2025-01-22 21:41:53,Not Opened,2025-01-21 08:48:50,Not Converted,62,Male,Los Angeles,1.0,0.0
+Holiday Specials,Email,578,Delivered,Opened,Not Clicked,Converted,349,2025-01-20 14:58:50,Not Opened,Not Clicked,Not Converted,41,Male,Los Angeles,0.0,1.0
+Loyalty Program,Push Notification,580,Delivered,Not Opened,Clicked,Converted,1,2025-01-05 05:42:24,Not Opened,Not Clicked,2025-01-24 13:03:35,48,Non-Binary,Los Angeles,1.0,1.0
+Loyalty Program,Email,582,Delivered,Opened,Clicked,Not Converted,550,2025-01-07 19:26:56,Not Opened,2025-01-18 00:27:42,2025-01-05 14:44:06,47,Non-Binary,Houston,1.0,0.0
+Winter Fest,Push Notification,586,Delivered,Opened,Not Clicked,Not Converted,122,2025-01-20 13:11:30,2025-01-23 11:43:49,Not Clicked,Not Converted,35,Female,San Francisco,0.0,0.0
+Winter Fest,Push Notification,588,Delivered,Opened,Clicked,Not Converted,174,2025-01-10 00:10:19,Not Opened,2025-01-16 19:10:43,2025-01-03 04:22:22,41,Female,San Francisco,1.0,0.0
+Holiday Specials,SMS,590,Delivered,Not Opened,Not Clicked,Not Converted,594,2025-01-10 20:35:36,Not Opened,Not Clicked,2025-01-10 02:53:41,34,Non-Binary,Miami,0.0,0.0
+Loyalty Program,SMS,591,Delivered,Opened,Clicked,Not Converted,264,2024-12-28 06:36:32,Not Opened,2025-01-23 12:27:55,2025-01-08 04:09:24,26,Non-Binary,Miami,1.0,0.0
+New Product Launch,SMS,593,Delivered,Opened,Clicked,Converted,7,2025-01-14 17:48:29,2025-01-22 10:33:29,Not Clicked,Not Converted,22,Non-Binary,Miami,1.0,1.0
+Summer Sale,SMS,595,Delivered,Not Opened,Clicked,Not Converted,55,2025-01-14 12:30:47,Not Opened,Not Clicked,Not Converted,37,Non-Binary,Houston,1.0,0.0
+Holiday Specials,SMS,597,Delivered,Opened,Not Clicked,Converted,251,2025-01-19 09:18:49,2025-01-10 06:31:22,2024-12-30 16:52:09,Not Converted,20,Female,Los Angeles,0.0,1.0
+Holiday Specials,Push Notification,600,Delivered,Not Opened,Not Clicked,Not Converted,68,2024-12-29 21:43:37,Not Opened,2025-01-22 06:29:05,Not Converted,57,Non-Binary,New York,0.0,0.0
+Holiday Specials,Email,602,Delivered,Opened,Not Clicked,Not Converted,28,2025-01-23 05:34:09,2025-01-23 23:29:28,2025-01-26 11:14:55,2025-01-19 11:55:49,23,Female,Chicago,0.0,0.0
+Summer Sale,Email,603,Delivered,Opened,Clicked,Converted,83,2025-01-20 15:41:21,2025-01-24 08:21:49,Not Clicked,Not Converted,35,Male,San Francisco,1.0,1.0
+Loyalty Program,Email,604,Delivered,Not Opened,Not Clicked,Converted,377,2025-01-15 17:15:48,2025-01-17 09:46:44,2025-01-22 10:23:14,2025-01-03 02:46:16,36,Non-Binary,Houston,0.0,1.0
+Holiday Specials,SMS,607,Delivered,Not Opened,Clicked,Not Converted,563,2025-01-06 14:38:22,2025-01-17 15:09:21,Not Clicked,2025-01-21 22:56:47,25,Male,San Francisco,1.0,0.0
+Loyalty Program,Push Notification,613,Delivered,Opened,Clicked,Converted,165,2025-01-09 11:47:18,2024-12-30 14:38:49,Not Clicked,Not Converted,49,Female,San Francisco,1.0,1.0
+New Product Launch,Email,615,Delivered,Not Opened,Clicked,Not Converted,230,2025-01-12 12:39:57,Not Opened,2025-01-02 06:42:32,2025-01-20 06:32:01,37,Non-Binary,San Francisco,1.0,0.0
+New Product Launch,Push Notification,617,Delivered,Not Opened,Clicked,Not Converted,399,2025-01-11 08:59:15,Not Opened,Not Clicked,Not Converted,38,Female,Houston,1.0,0.0
+Summer Sale,SMS,618,Delivered,Opened,Clicked,Not Converted,61,2025-01-06 04:58:29,Not Opened,2025-01-10 08:57:25,2025-01-20 22:01:44,35,Non-Binary,Miami,1.0,0.0
+Summer Sale,Email,619,Delivered,Opened,Not Clicked,Not Converted,63,2025-01-24 03:46:09,2025-01-03 21:39:05,Not Clicked,2025-01-05 08:27:50,60,Female,New York,0.0,0.0
+Summer Sale,Push Notification,620,Delivered,Not Opened,Not Clicked,Not Converted,91,2025-01-01 13:19:52,Not Opened,Not Clicked,Not Converted,46,Male,Los Angeles,0.0,0.0
+New Product Launch,Push Notification,622,Delivered,Opened,Not Clicked,Converted,570,2025-01-20 10:42:01,Not Opened,Not Clicked,2025-01-15 02:36:41,45,Non-Binary,New York,0.0,1.0
+New Product Launch,Push Notification,624,Delivered,Opened,Clicked,Converted,472,2025-01-09 05:13:27,2025-01-18 19:24:08,2025-01-15 03:21:37,2025-01-20 13:08:43,53,Female,Houston,1.0,1.0
+Summer Sale,SMS,625,Delivered,Not Opened,Clicked,Converted,355,2025-01-17 02:50:30,Not Opened,2025-01-11 04:14:25,2025-01-19 21:15:03,65,Female,New York,1.0,1.0
+Summer Sale,Email,627,Delivered,Not Opened,Clicked,Not Converted,593,2025-01-10 22:36:03,Not Opened,2025-01-18 02:11:31,Not Converted,22,Female,New York,1.0,0.0
+Winter Fest,Email,628,Delivered,Not Opened,Clicked,Converted,3,2025-01-26 00:50:03,Not Opened,2025-01-03 13:24:45,2025-01-22 20:56:08,23,Male,Houston,1.0,1.0
+Summer Sale,SMS,629,Delivered,Opened,Not Clicked,Not Converted,275,2025-01-02 13:06:19,Not Opened,2025-01-08 18:36:40,Not Converted,38,Non-Binary,Miami,0.0,0.0
+Winter Fest,Push Notification,632,Delivered,Not Opened,Not Clicked,Not Converted,399,2025-01-08 10:04:42,Not Opened,2025-01-20 13:38:45,Not Converted,29,Male,New York,0.0,0.0
+Summer Sale,Push Notification,639,Delivered,Opened,Not Clicked,Converted,1,2024-12-27 23:08:54,Not Opened,2025-01-16 13:06:04,Not Converted,60,Female,San Francisco,0.0,1.0
+Summer Sale,SMS,642,Delivered,Opened,Clicked,Converted,41,2025-01-13 15:07:25,2025-01-13 10:20:08,Not Clicked,Not Converted,51,Non-Binary,Chicago,1.0,1.0
+Summer Sale,SMS,645,Delivered,Not Opened,Not Clicked,Not Converted,445,2025-01-24 17:06:24,Not Opened,2025-01-01 08:12:34,Not Converted,65,Non-Binary,Houston,0.0,0.0
+Holiday Specials,SMS,646,Delivered,Opened,Clicked,Converted,77,2025-01-22 06:46:05,Not Opened,2024-12-31 06:03:37,Not Converted,45,Female,Houston,1.0,1.0
+Summer Sale,Push Notification,647,Delivered,Not Opened,Clicked,Not Converted,249,2025-01-02 04:44:07,2024-12-30 17:37:35,Not Clicked,2025-01-22 04:20:30,19,Female,Miami,1.0,0.0
+Winter Fest,Email,648,Delivered,Not Opened,Not Clicked,Converted,32,2025-01-15 23:16:11,Not Opened,Not Clicked,2025-01-12 05:00:57,49,Female,San Francisco,0.0,1.0
+Loyalty Program,Push Notification,649,Delivered,Opened,Clicked,Not Converted,344,2025-01-11 14:06:51,Not Opened,2025-01-23 10:13:28,Not Converted,57,Non-Binary,Los Angeles,1.0,0.0
+Loyalty Program,Push Notification,650,Delivered,Not Opened,Clicked,Converted,448,2025-01-20 11:11:53,2025-01-26 21:05:06,Not Clicked,2025-01-19 07:33:44,63,Female,San Francisco,1.0,1.0
+Summer Sale,SMS,651,Delivered,Not Opened,Clicked,Converted,354,2025-01-24 01:25:27,2025-01-12 21:29:30,Not Clicked,Not Converted,50,Female,Chicago,1.0,1.0
+Black Friday,Email,654,Delivered,Opened,Not Clicked,Converted,4,2025-01-15 03:41:49,Not Opened,2025-01-23 04:30:10,2025-01-13 05:52:23,55,Male,San Francisco,0.0,1.0
+Black Friday,Push Notification,655,Delivered,Opened,Clicked,Not Converted,509,2025-01-03 12:44:16,Not Opened,2025-01-07 03:31:11,2025-01-21 06:02:27,20,Non-Binary,New York,1.0,0.0
+Loyalty Program,Email,657,Delivered,Not Opened,Not Clicked,Not Converted,559,2025-01-24 21:42:56,Not Opened,Not Clicked,2025-01-19 04:46:08,45,Female,San Francisco,0.0,0.0
+Winter Fest,Push Notification,658,Delivered,Opened,Clicked,Not Converted,339,2024-12-28 22:31:36,Not Opened,Not Clicked,2025-01-08 07:08:25,50,Male,Houston,1.0,0.0
+Loyalty Program,Email,662,Delivered,Opened,Not Clicked,Not Converted,22,2025-01-24 11:06:38,Not Opened,2024-12-31 00:56:33,2025-01-12 00:08:48,23,Female,San Francisco,0.0,0.0
+Summer Sale,Email,663,Delivered,Not Opened,Not Clicked,Converted,392,2025-01-16 08:59:34,2025-01-01 04:49:02,2025-01-22 21:57:48,Not Converted,62,Male,Miami,0.0,1.0
+New Product Launch,Push Notification,664,Delivered,Not Opened,Not Clicked,Converted,433,2024-12-31 14:48:48,Not Opened,2025-01-03 10:06:55,Not Converted,63,Non-Binary,Miami,0.0,1.0
+New Product Launch,Push Notification,665,Delivered,Not Opened,Clicked,Not Converted,229,2025-01-11 01:46:06,2025-01-11 17:25:46,Not Clicked,2025-01-16 08:32:53,47,Non-Binary,Miami,1.0,0.0
+Summer Sale,Email,669,Delivered,Opened,Clicked,Not Converted,262,2025-01-19 14:46:32,2025-01-07 03:06:59,2025-01-13 02:59:37,2024-12-28 23:41:31,29,Female,New York,1.0,0.0
+Black Friday,Email,670,Delivered,Opened,Not Clicked,Converted,526,2024-12-31 12:51:39,Not Opened,Not Clicked,Not Converted,25,Non-Binary,New York,0.0,1.0
+Summer Sale,SMS,673,Delivered,Not Opened,Not Clicked,Not Converted,124,2025-01-12 04:44:00,Not Opened,2025-01-11 03:38:30,Not Converted,32,Male,Miami,0.0,0.0
+Summer Sale,Push Notification,675,Delivered,Not Opened,Clicked,Converted,330,2025-01-12 05:37:23,Not Opened,2025-01-12 09:59:52,Not Converted,63,Non-Binary,Los Angeles,1.0,1.0
+Winter Fest,Email,677,Delivered,Not Opened,Not Clicked,Not Converted,26,2025-01-12 12:46:40,Not Opened,Not Clicked,Not Converted,48,Non-Binary,San Francisco,0.0,0.0
+Winter Fest,Email,679,Delivered,Opened,Clicked,Converted,522,2024-12-28 06:05:00,Not Opened,2025-01-09 15:12:25,2025-01-18 00:31:27,29,Female,Los Angeles,1.0,1.0
+Black Friday,Email,680,Delivered,Opened,Clicked,Not Converted,247,2024-12-28 20:59:53,2025-01-08 12:37:28,2025-01-07 02:43:37,2025-01-13 20:45:56,65,Male,Houston,1.0,0.0
+Holiday Specials,Push Notification,681,Delivered,Not Opened,Not Clicked,Converted,404,2025-01-16 00:14:22,2025-01-20 07:54:26,Not Clicked,2025-01-16 20:41:50,65,Female,New York,0.0,1.0
+Winter Fest,SMS,682,Delivered,Not Opened,Clicked,Not Converted,158,2025-01-15 22:06:45,Not Opened,Not Clicked,2025-01-25 10:47:03,22,Male,Chicago,1.0,0.0
+Winter Fest,Push Notification,683,Delivered,Opened,Not Clicked,Converted,88,2025-01-17 16:25:02,Not Opened,2025-01-21 06:29:57,Not Converted,39,Non-Binary,New York,0.0,1.0
+Summer Sale,SMS,684,Delivered,Not Opened,Clicked,Converted,288,2025-01-22 00:52:16,Not Opened,Not Clicked,Not Converted,46,Female,Miami,1.0,1.0
+Summer Sale,Email,685,Delivered,Opened,Not Clicked,Not Converted,408,2025-01-15 23:11:56,Not Opened,Not Clicked,Not Converted,36,Female,Houston,0.0,0.0
+Black Friday,Email,687,Delivered,Opened,Clicked,Not Converted,331,2025-01-05 17:25:21,2025-01-07 04:27:17,Not Clicked,2025-01-05 05:12:00,52,Male,Los Angeles,1.0,0.0
+Winter Fest,Email,689,Delivered,Not Opened,Not Clicked,Converted,138,2025-01-20 15:05:04,Not Opened,Not Clicked,Not Converted,46,Female,New York,0.0,1.0
+Holiday Specials,Push Notification,691,Delivered,Not Opened,Clicked,Converted,484,2025-01-19 16:18:51,2025-01-13 01:15:12,Not Clicked,Not Converted,64,Female,Houston,1.0,1.0
+Winter Fest,Push Notification,693,Delivered,Opened,Clicked,Not Converted,412,2025-01-04 18:15:16,Not Opened,2025-01-16 21:42:15,2025-01-06 18:01:01,21,Male,San Francisco,1.0,0.0
+New Product Launch,Push Notification,696,Delivered,Not Opened,Not Clicked,Converted,138,2024-12-31 06:45:17,Not Opened,Not Clicked,2025-01-05 22:11:41,28,Non-Binary,New York,0.0,1.0
+Holiday Specials,SMS,697,Delivered,Not Opened,Clicked,Converted,46,2025-01-07 08:03:15,Not Opened,2025-01-07 18:22:38,2024-12-29 15:11:08,65,Non-Binary,New York,1.0,1.0
+Loyalty Program,Email,698,Delivered,Opened,Not Clicked,Not Converted,320,2025-01-19 17:49:17,Not Opened,Not Clicked,2024-12-28 05:29:14,20,Male,New York,0.0,0.0
+Summer Sale,Push Notification,699,Delivered,Not Opened,Clicked,Converted,549,2024-12-28 21:50:11,2025-01-25 18:44:14,Not Clicked,2025-01-15 10:29:14,54,Male,Los Angeles,1.0,1.0
+New Product Launch,Push Notification,700,Delivered,Opened,Clicked,Converted,247,2024-12-31 15:58:10,Not Opened,2025-01-11 20:59:48,Not Converted,48,Male,New York,1.0,1.0
+Loyalty Program,Push Notification,705,Delivered,Opened,Not Clicked,Converted,365,2025-01-13 06:14:39,Not Opened,2025-01-14 20:29:49,Not Converted,63,Non-Binary,Houston,0.0,1.0
+Loyalty Program,Email,706,Delivered,Opened,Not Clicked,Converted,322,2024-12-28 01:06:41,2025-01-17 07:34:18,Not Clicked,2024-12-28 22:14:12,26,Male,Chicago,0.0,1.0
+Winter Fest,Email,707,Delivered,Opened,Not Clicked,Converted,272,2025-01-15 17:03:58,2025-01-06 10:43:21,Not Clicked,2025-01-13 07:18:27,34,Male,Miami,0.0,1.0
+Loyalty Program,Push Notification,708,Delivered,Not Opened,Not Clicked,Converted,598,2025-01-19 05:30:39,2024-12-30 06:21:03,Not Clicked,2025-01-02 22:39:59,21,Female,Houston,0.0,1.0
+Summer Sale,Email,709,Delivered,Not Opened,Not Clicked,Not Converted,449,2025-01-15 09:51:04,2025-01-02 00:22:33,Not Clicked,2025-01-03 00:28:08,53,Female,Houston,0.0,0.0
+Loyalty Program,Email,712,Delivered,Opened,Clicked,Converted,489,2025-01-23 01:18:18,2025-01-04 23:02:18,2025-01-23 13:14:14,Not Converted,55,Male,Miami,1.0,1.0
+New Product Launch,SMS,713,Delivered,Not Opened,Not Clicked,Not Converted,267,2025-01-03 03:14:50,2025-01-23 13:55:14,2025-01-17 00:23:55,2024-12-28 23:17:25,41,Female,New York,0.0,0.0
+Summer Sale,Push Notification,715,Delivered,Not Opened,Not Clicked,Not Converted,211,2025-01-21 05:08:10,Not Opened,Not Clicked,2025-01-10 21:24:29,42,Male,Houston,0.0,0.0
+Holiday Specials,SMS,716,Delivered,Not Opened,Clicked,Converted,259,2025-01-02 01:58:55,Not Opened,Not Clicked,2025-01-20 00:06:27,51,Non-Binary,Miami,1.0,1.0
+Winter Fest,SMS,717,Delivered,Opened,Clicked,Converted,87,2025-01-19 07:01:09,2025-01-25 08:25:54,2025-01-14 07:43:07,2025-01-08 05:55:10,24,Non-Binary,Miami,1.0,1.0
+Holiday Specials,Push Notification,718,Delivered,Opened,Clicked,Not Converted,4,2025-01-25 23:05:55,Not Opened,Not Clicked,2025-01-19 01:15:41,49,Female,Los Angeles,1.0,0.0
+New Product Launch,SMS,719,Delivered,Opened,Clicked,Converted,201,2025-01-17 16:28:35,2025-01-18 22:53:39,Not Clicked,Not Converted,54,Male,Miami,1.0,1.0
+Holiday Specials,Email,722,Delivered,Opened,Clicked,Converted,198,2025-01-15 05:07:39,2024-12-31 23:53:04,Not Clicked,2025-01-17 21:56:12,62,Male,San Francisco,1.0,1.0
+Holiday Specials,Email,725,Delivered,Not Opened,Not Clicked,Not Converted,314,2024-12-31 18:39:16,2025-01-13 20:15:54,Not Clicked,2025-01-19 16:23:52,36,Female,Miami,0.0,0.0
+Black Friday,Push Notification,728,Delivered,Opened,Not Clicked,Not Converted,367,2025-01-21 00:23:07,2025-01-10 21:33:28,2025-01-14 08:02:12,Not Converted,53,Female,New York,0.0,0.0
+Loyalty Program,Push Notification,729,Delivered,Not Opened,Clicked,Not Converted,115,2025-01-22 05:34:32,Not Opened,Not Clicked,Not Converted,47,Non-Binary,Miami,1.0,0.0
+New Product Launch,SMS,733,Delivered,Opened,Not Clicked,Converted,374,2025-01-18 07:18:45,2025-01-12 02:46:26,Not Clicked,Not Converted,43,Female,New York,0.0,1.0
+Black Friday,SMS,737,Delivered,Opened,Not Clicked,Not Converted,221,2025-01-19 08:48:17,2025-01-13 22:35:27,Not Clicked,2024-12-28 11:53:06,31,Male,San Francisco,0.0,0.0
+Black Friday,Email,738,Delivered,Not Opened,Not Clicked,Not Converted,513,2025-01-13 21:24:43,Not Opened,Not Clicked,2025-01-23 19:43:21,50,Non-Binary,New York,0.0,0.0
+Winter Fest,SMS,739,Delivered,Not Opened,Not Clicked,Converted,307,2024-12-28 03:41:50,2025-01-14 19:26:01,Not Clicked,Not Converted,58,Non-Binary,Miami,0.0,1.0
+Summer Sale,Push Notification,740,Delivered,Opened,Not Clicked,Not Converted,481,2025-01-20 13:52:45,2025-01-10 08:09:37,2025-01-05 16:30:01,Not Converted,54,Female,New York,0.0,0.0
+Loyalty Program,SMS,741,Delivered,Not Opened,Not Clicked,Not Converted,194,2025-01-12 03:46:23,Not Opened,2025-01-18 07:20:41,2025-01-21 23:57:16,56,Female,San Francisco,0.0,0.0
+Black Friday,Push Notification,742,Delivered,Not Opened,Clicked,Converted,471,2025-01-23 19:49:55,2025-01-15 07:49:41,2025-01-15 22:06:49,Not Converted,28,Female,San Francisco,1.0,1.0
+Winter Fest,SMS,744,Delivered,Opened,Not Clicked,Converted,119,2025-01-04 20:22:20,2025-01-11 19:01:34,Not Clicked,2025-01-24 05:09:16,37,Non-Binary,Miami,0.0,1.0
+New Product Launch,Push Notification,745,Delivered,Not Opened,Clicked,Not Converted,265,2025-01-07 07:02:49,2025-01-04 03:50:27,2025-01-26 14:41:11,2025-01-09 22:58:05,35,Female,Miami,1.0,0.0
+Black Friday,Push Notification,746,Delivered,Opened,Not Clicked,Not Converted,210,2025-01-12 18:01:52,2025-01-14 18:47:07,Not Clicked,Not Converted,34,Male,New York,0.0,0.0
+Winter Fest,SMS,747,Delivered,Opened,Not Clicked,Converted,448,2025-01-13 01:35:25,Not Opened,Not Clicked,2025-01-15 06:57:56,32,Male,Chicago,0.0,1.0
+Black Friday,SMS,748,Delivered,Not Opened,Clicked,Not Converted,404,2024-12-30 16:29:05,2025-01-25 23:59:50,Not Clicked,2025-01-02 23:09:11,43,Non-Binary,New York,1.0,0.0
+Black Friday,SMS,749,Delivered,Opened,Not Clicked,Converted,442,2025-01-10 14:25:55,2025-01-19 22:53:00,Not Clicked,Not Converted,23,Non-Binary,New York,0.0,1.0
+Black Friday,SMS,750,Delivered,Opened,Clicked,Not Converted,17,2025-01-12 01:54:29,Not Opened,Not Clicked,Not Converted,20,Non-Binary,Houston,1.0,0.0
+Loyalty Program,Push Notification,756,Delivered,Opened,Not Clicked,Not Converted,169,2025-01-12 16:35:29,Not Opened,Not Clicked,Not Converted,62,Non-Binary,Chicago,0.0,0.0
+Black Friday,Push Notification,757,Delivered,Opened,Clicked,Converted,345,2025-01-09 01:16:00,Not Opened,Not Clicked,Not Converted,54,Non-Binary,New York,1.0,1.0
+Holiday Specials,SMS,758,Delivered,Not Opened,Clicked,Converted,594,2025-01-10 05:57:03,2025-01-09 03:01:07,Not Clicked,Not Converted,57,Non-Binary,Miami,1.0,1.0
+Holiday Specials,Push Notification,762,Delivered,Opened,Not Clicked,Not Converted,580,2025-01-07 19:03:19,Not Opened,2025-01-08 06:38:03,2025-01-19 02:52:54,31,Female,San Francisco,0.0,0.0
+Holiday Specials,SMS,767,Delivered,Not Opened,Clicked,Converted,500,2025-01-14 09:51:12,Not Opened,2025-01-23 20:42:50,Not Converted,31,Male,Houston,1.0,1.0
+Loyalty Program,SMS,769,Delivered,Not Opened,Clicked,Converted,590,2025-01-13 04:24:49,2025-01-23 15:00:31,2024-12-28 22:23:04,2025-01-21 20:42:12,30,Non-Binary,Houston,1.0,1.0
+Black Friday,Push Notification,770,Delivered,Opened,Not Clicked,Converted,251,2025-01-16 20:02:22,Not Opened,Not Clicked,Not Converted,43,Non-Binary,New York,0.0,1.0
+Summer Sale,Email,775,Delivered,Not Opened,Clicked,Converted,326,2025-01-12 16:01:53,Not Opened,2025-01-26 00:17:21,Not Converted,19,Male,Chicago,1.0,1.0
+Loyalty Program,SMS,776,Delivered,Opened,Clicked,Not Converted,284,2025-01-24 19:53:22,2025-01-16 21:58:47,Not Clicked,2025-01-12 03:28:51,36,Non-Binary,Los Angeles,1.0,0.0
+Loyalty Program,Push Notification,777,Delivered,Not Opened,Clicked,Not Converted,209,2025-01-08 23:15:42,2025-01-16 13:52:00,2025-01-13 18:18:44,2025-01-08 08:17:01,28,Non-Binary,New York,1.0,0.0
+Summer Sale,Email,779,Delivered,Opened,Not Clicked,Converted,304,2025-01-22 22:23:18,2025-01-19 05:47:00,Not Clicked,2025-01-15 03:59:39,26,Male,Chicago,0.0,1.0
+Loyalty Program,Email,780,Delivered,Not Opened,Not Clicked,Not Converted,574,2025-01-17 22:11:46,Not Opened,Not Clicked,2025-01-06 06:08:02,24,Male,Miami,0.0,0.0
+Loyalty Program,Email,781,Delivered,Not Opened,Clicked,Converted,140,2025-01-05 11:38:49,Not Opened,Not Clicked,2025-01-16 20:41:03,32,Non-Binary,Miami,1.0,1.0
+New Product Launch,Email,782,Delivered,Not Opened,Not Clicked,Converted,397,2025-01-15 23:20:44,2025-01-22 04:20:56,Not Clicked,Not Converted,45,Non-Binary,Miami,0.0,1.0
+Loyalty Program,Push Notification,785,Delivered,Opened,Clicked,Converted,562,2025-01-12 19:24:40,2025-01-03 10:29:32,Not Clicked,Not Converted,44,Non-Binary,New York,1.0,1.0
+New Product Launch,SMS,788,Delivered,Not Opened,Not Clicked,Not Converted,546,2025-01-16 08:45:36,Not Opened,Not Clicked,Not Converted,63,Female,Los Angeles,0.0,0.0
+Holiday Specials,SMS,789,Delivered,Opened,Not Clicked,Not Converted,579,2025-01-19 01:27:05,Not Opened,2025-01-18 00:47:07,Not Converted,65,Female,Miami,0.0,0.0
+Winter Fest,SMS,790,Delivered,Opened,Clicked,Converted,533,2025-01-03 00:15:05,Not Opened,Not Clicked,2025-01-19 21:08:24,60,Male,Chicago,1.0,1.0
+Black Friday,Push Notification,795,Delivered,Not Opened,Clicked,Not Converted,520,2025-01-10 05:53:42,Not Opened,2024-12-31 13:46:14,Not Converted,59,Male,San Francisco,1.0,0.0
+New Product Launch,Email,799,Delivered,Opened,Clicked,Converted,123,2025-01-13 12:05:49,2024-12-28 09:18:29,2025-01-15 04:45:57,Not Converted,39,Male,Houston,1.0,1.0
+Holiday Specials,Email,801,Delivered,Not Opened,Clicked,Not Converted,85,2025-01-10 09:50:29,2025-01-19 19:54:39,Not Clicked,2025-01-14 17:26:50,21,Male,New York,1.0,0.0
+Summer Sale,SMS,803,Delivered,Not Opened,Clicked,Converted,126,2025-01-16 18:46:41,2024-12-28 07:54:19,Not Clicked,Not Converted,64,Male,Miami,1.0,1.0
+Loyalty Program,SMS,807,Delivered,Opened,Clicked,Converted,489,2025-01-08 09:29:27,Not Opened,2025-01-21 14:54:34,2025-01-07 04:27:27,48,Female,Chicago,1.0,1.0
+Loyalty Program,SMS,808,Delivered,Not Opened,Clicked,Not Converted,136,2025-01-07 11:34:25,Not Opened,2025-01-25 10:02:27,Not Converted,53,Female,Houston,1.0,0.0
+Black Friday,Push Notification,811,Delivered,Opened,Clicked,Not Converted,421,2024-12-28 10:27:48,Not Opened,Not Clicked,2025-01-16 12:52:40,51,Non-Binary,Miami,1.0,0.0
+Black Friday,SMS,812,Delivered,Opened,Clicked,Not Converted,258,2025-01-24 15:00:41,2025-01-24 15:48:18,2025-01-20 23:46:42,2025-01-02 04:18:49,22,Male,San Francisco,1.0,0.0
+Winter Fest,SMS,817,Delivered,Opened,Clicked,Not Converted,579,2025-01-12 09:35:01,2025-01-18 20:27:55,Not Clicked,Not Converted,51,Male,Los Angeles,1.0,0.0
+Winter Fest,SMS,821,Delivered,Not Opened,Not Clicked,Converted,564,2025-01-24 08:15:14,Not Opened,Not Clicked,Not Converted,46,Male,Chicago,0.0,1.0
+New Product Launch,Push Notification,824,Delivered,Not Opened,Not Clicked,Not Converted,69,2025-01-18 09:57:36,Not Opened,Not Clicked,Not Converted,65,Male,Chicago,0.0,0.0
+New Product Launch,Push Notification,828,Delivered,Opened,Clicked,Converted,369,2025-01-17 01:33:50,Not Opened,2024-12-29 06:29:37,2025-01-17 11:59:27,30,Female,New York,1.0,1.0
+Winter Fest,Email,829,Delivered,Opened,Clicked,Converted,212,2025-01-10 09:34:57,Not Opened,Not Clicked,2024-12-28 15:06:40,32,Female,New York,1.0,1.0
+Loyalty Program,Push Notification,830,Delivered,Opened,Not Clicked,Converted,451,2025-01-10 14:00:49,2025-01-05 13:31:05,Not Clicked,2025-01-12 23:05:22,51,Female,Miami,0.0,1.0
+Holiday Specials,Push Notification,831,Delivered,Opened,Not Clicked,Not Converted,261,2025-01-25 12:05:23,2025-01-09 23:32:46,2025-01-02 16:00:25,Not Converted,39,Female,New York,0.0,0.0
+Winter Fest,Push Notification,835,Delivered,Opened,Not Clicked,Not Converted,298,2025-01-10 14:36:56,2025-01-02 12:35:25,2025-01-04 20:45:28,2025-01-18 10:55:43,60,Non-Binary,San Francisco,0.0,0.0
+Holiday Specials,SMS,836,Delivered,Opened,Clicked,Not Converted,167,2024-12-29 18:48:56,Not Opened,Not Clicked,2024-12-28 07:37:53,38,Female,Miami,1.0,0.0
+New Product Launch,Push Notification,837,Delivered,Not Opened,Clicked,Not Converted,179,2025-01-09 05:10:47,2024-12-30 23:28:32,2025-01-15 09:16:47,Not Converted,24,Male,Houston,1.0,0.0
+New Product Launch,Push Notification,838,Delivered,Not Opened,Clicked,Converted,47,2025-01-17 03:57:48,2025-01-02 04:54:34,Not Clicked,Not Converted,45,Male,Los Angeles,1.0,1.0
+Summer Sale,Email,840,Delivered,Not Opened,Clicked,Not Converted,379,2025-01-23 19:02:08,2025-01-12 02:53:52,2025-01-03 04:41:08,Not Converted,35,Non-Binary,Chicago,1.0,0.0
+Summer Sale,SMS,842,Delivered,Not Opened,Clicked,Not Converted,78,2025-01-09 08:20:37,2025-01-09 12:51:03,Not Clicked,2025-01-13 06:44:56,37,Female,New York,1.0,0.0
+Summer Sale,Push Notification,843,Delivered,Opened,Not Clicked,Converted,273,2025-01-10 23:48:09,Not Opened,2025-01-19 17:58:58,Not Converted,65,Male,San Francisco,0.0,1.0
+New Product Launch,Push Notification,844,Delivered,Opened,Not Clicked,Not Converted,438,2025-01-23 12:01:41,Not Opened,2025-01-05 14:21:26,Not Converted,40,Non-Binary,Chicago,0.0,0.0
+Loyalty Program,SMS,847,Delivered,Not Opened,Clicked,Not Converted,337,2024-12-29 02:02:32,Not Opened,2025-01-19 06:19:20,Not Converted,30,Male,New York,1.0,0.0
+Loyalty Program,SMS,848,Delivered,Not Opened,Clicked,Not Converted,87,2024-12-28 23:03:53,2025-01-02 11:42:13,2025-01-04 03:33:22,2025-01-17 17:42:45,59,Female,Los Angeles,1.0,0.0
+Winter Fest,SMS,851,Delivered,Not Opened,Not Clicked,Not Converted,359,2025-01-14 08:41:40,2025-01-23 22:05:29,Not Clicked,Not Converted,48,Non-Binary,New York,0.0,0.0
+New Product Launch,Email,853,Delivered,Opened,Not Clicked,Converted,416,2025-01-10 16:56:10,2025-01-22 16:26:42,Not Clicked,Not Converted,51,Male,New York,0.0,1.0
+Holiday Specials,SMS,854,Delivered,Opened,Clicked,Converted,419,2025-01-21 18:43:18,2025-01-07 06:18:08,2025-01-26 15:48:54,2025-01-17 23:13:16,34,Male,Miami,1.0,1.0
+New Product Launch,Push Notification,857,Delivered,Opened,Not Clicked,Converted,421,2025-01-21 11:03:00,Not Opened,Not Clicked,Not Converted,51,Female,Houston,0.0,1.0
+Black Friday,Email,858,Delivered,Not Opened,Not Clicked,Converted,334,2025-01-26 00:17:30,Not Opened,2025-01-26 19:06:50,Not Converted,38,Female,Miami,0.0,1.0
+Loyalty Program,Push Notification,859,Delivered,Not Opened,Not Clicked,Converted,381,2025-01-18 10:50:16,Not Opened,Not Clicked,2025-01-22 00:51:15,30,Female,Houston,0.0,1.0
+New Product Launch,Email,862,Delivered,Opened,Clicked,Not Converted,417,2025-01-06 20:36:39,Not Opened,2025-01-26 16:19:52,Not Converted,20,Female,Chicago,1.0,0.0
+Winter Fest,SMS,865,Delivered,Opened,Clicked,Not Converted,77,2025-01-16 12:18:30,Not Opened,Not Clicked,Not Converted,26,Male,San Francisco,1.0,0.0
+Loyalty Program,Email,866,Delivered,Opened,Not Clicked,Converted,589,2025-01-19 21:54:51,Not Opened,Not Clicked,Not Converted,31,Male,Miami,0.0,1.0
+Holiday Specials,Email,867,Delivered,Not Opened,Not Clicked,Converted,81,2025-01-26 17:16:44,2024-12-28 14:57:52,2025-01-16 07:57:26,Not Converted,51,Non-Binary,New York,0.0,1.0
+Black Friday,Push Notification,869,Delivered,Opened,Not Clicked,Not Converted,556,2025-01-17 18:54:28,Not Opened,Not Clicked,2025-01-20 10:44:15,61,Male,Los Angeles,0.0,0.0
+Loyalty Program,Push Notification,870,Delivered,Not Opened,Clicked,Not Converted,62,2025-01-19 11:10:38,Not Opened,Not Clicked,Not Converted,63,Non-Binary,Chicago,1.0,0.0
+Summer Sale,SMS,873,Delivered,Opened,Not Clicked,Converted,539,2025-01-12 14:25:52,2025-01-23 13:51:22,Not Clicked,Not Converted,60,Female,Houston,0.0,1.0
+Winter Fest,Email,874,Delivered,Not Opened,Clicked,Not Converted,474,2025-01-03 10:33:12,Not Opened,Not Clicked,Not Converted,53,Non-Binary,New York,1.0,0.0
+Holiday Specials,Push Notification,875,Delivered,Not Opened,Not Clicked,Converted,276,2025-01-12 13:46:21,Not Opened,Not Clicked,Not Converted,21,Non-Binary,Houston,0.0,1.0
+Holiday Specials,Email,881,Delivered,Not Opened,Not Clicked,Not Converted,480,2024-12-31 23:36:19,2025-01-03 02:16:17,2025-01-01 18:02:51,2025-01-21 23:46:04,35,Male,Miami,0.0,0.0
+Summer Sale,Push Notification,882,Delivered,Not Opened,Clicked,Not Converted,471,2025-01-06 05:59:15,Not Opened,Not Clicked,2025-01-12 00:04:14,64,Male,New York,1.0,0.0
+Winter Fest,Email,883,Delivered,Opened,Clicked,Not Converted,568,2025-01-17 08:27:35,2025-01-20 13:30:25,Not Clicked,2025-01-04 21:49:22,21,Male,Chicago,1.0,0.0
+Summer Sale,Email,884,Delivered,Not Opened,Clicked,Not Converted,428,2025-01-23 04:15:51,2024-12-28 19:39:04,2025-01-20 19:48:56,2025-01-02 22:21:18,64,Male,Miami,1.0,0.0
+Black Friday,Push Notification,885,Delivered,Opened,Not Clicked,Converted,238,2025-01-18 11:26:38,2025-01-03 02:55:36,2025-01-15 02:30:41,Not Converted,28,Male,Los Angeles,0.0,1.0
+Summer Sale,Email,887,Delivered,Opened,Clicked,Converted,72,2025-01-14 23:53:25,2025-01-26 03:46:21,Not Clicked,Not Converted,60,Male,Houston,1.0,1.0
+Summer Sale,Email,895,Delivered,Not Opened,Not Clicked,Converted,554,2025-01-12 01:56:42,Not Opened,Not Clicked,2025-01-15 14:46:50,40,Female,Chicago,0.0,1.0
+Winter Fest,Email,896,Delivered,Opened,Clicked,Not Converted,49,2024-12-28 12:03:03,Not Opened,2025-01-01 13:50:28,2024-12-28 07:07:13,35,Non-Binary,Chicago,1.0,0.0
+New Product Launch,Push Notification,897,Delivered,Opened,Clicked,Not Converted,12,2025-01-11 19:59:34,Not Opened,Not Clicked,Not Converted,49,Female,San Francisco,1.0,0.0
+Black Friday,Push Notification,900,Delivered,Opened,Clicked,Not Converted,296,2025-01-03 23:23:49,2024-12-28 03:51:15,2025-01-12 00:35:44,2025-01-12 20:35:11,59,Non-Binary,Chicago,1.0,0.0
+Winter Fest,Push Notification,903,Delivered,Not Opened,Not Clicked,Not Converted,380,2025-01-16 06:55:39,Not Opened,Not Clicked,2025-01-20 02:00:42,52,Non-Binary,Los Angeles,0.0,0.0
+Summer Sale,Push Notification,904,Delivered,Opened,Not Clicked,Converted,423,2025-01-17 09:33:35,2025-01-10 00:09:19,2025-01-01 12:51:09,2025-01-26 20:16:19,65,Female,Houston,0.0,1.0
+New Product Launch,Push Notification,905,Delivered,Opened,Not Clicked,Not Converted,457,2025-01-10 00:39:56,2025-01-11 03:14:14,2025-01-16 08:24:16,Not Converted,50,Non-Binary,New York,0.0,0.0
+New Product Launch,SMS,906,Delivered,Opened,Clicked,Converted,243,2025-01-15 18:09:11,2025-01-08 15:55:25,Not Clicked,2025-01-23 19:06:47,37,Non-Binary,Miami,1.0,1.0
+Summer Sale,Push Notification,907,Delivered,Opened,Clicked,Not Converted,467,2025-01-26 13:31:46,Not Opened,Not Clicked,2025-01-01 09:57:18,28,Non-Binary,New York,1.0,0.0
+Winter Fest,Email,908,Delivered,Opened,Not Clicked,Not Converted,94,2025-01-15 05:09:54,Not Opened,Not Clicked,2025-01-10 22:16:16,32,Female,Los Angeles,0.0,0.0
+Black Friday,SMS,909,Delivered,Opened,Not Clicked,Converted,592,2025-01-23 06:57:20,Not Opened,Not Clicked,2025-01-23 07:39:38,64,Non-Binary,Miami,0.0,1.0
+Black Friday,Email,911,Delivered,Opened,Clicked,Converted,79,2025-01-03 11:27:56,Not Opened,2025-01-15 02:55:22,2024-12-28 17:38:10,42,Male,Houston,1.0,1.0
+Holiday Specials,Email,912,Delivered,Opened,Not Clicked,Converted,197,2025-01-22 09:13:36,2025-01-08 15:34:48,2025-01-07 11:56:49,2025-01-20 05:42:29,38,Male,Los Angeles,0.0,1.0
+Black Friday,Email,913,Delivered,Not Opened,Not Clicked,Converted,450,2025-01-16 20:33:32,Not Opened,Not Clicked,2025-01-13 22:35:25,30,Male,Miami,0.0,1.0
+New Product Launch,SMS,915,Delivered,Not Opened,Not Clicked,Not Converted,138,2025-01-07 02:04:53,Not Opened,2025-01-07 17:58:36,Not Converted,35,Non-Binary,Houston,0.0,0.0
+Summer Sale,SMS,920,Delivered,Opened,Clicked,Not Converted,384,2025-01-23 09:17:32,2025-01-11 00:39:30,Not Clicked,2025-01-04 19:06:53,36,Female,New York,1.0,0.0
+Loyalty Program,Email,922,Delivered,Not Opened,Clicked,Not Converted,345,2025-01-02 01:15:51,Not Opened,Not Clicked,2025-01-07 11:57:47,61,Male,Houston,1.0,0.0
+Winter Fest,Push Notification,923,Delivered,Not Opened,Not Clicked,Converted,16,2024-12-29 01:50:22,2025-01-26 18:04:27,Not Clicked,Not Converted,39,Non-Binary,Chicago,0.0,1.0
+New Product Launch,Email,930,Delivered,Opened,Clicked,Not Converted,249,2024-12-29 14:30:31,Not Opened,2025-01-19 01:32:49,Not Converted,50,Male,Los Angeles,1.0,0.0
+New Product Launch,Email,932,Delivered,Opened,Not Clicked,Converted,463,2025-01-19 13:44:52,2025-01-05 08:49:47,2025-01-03 04:47:35,Not Converted,59,Female,San Francisco,0.0,1.0
+Black Friday,Push Notification,934,Delivered,Not Opened,Clicked,Converted,503,2025-01-11 13:10:16,2025-01-19 20:08:41,Not Clicked,Not Converted,43,Female,New York,1.0,1.0
+Winter Fest,Email,936,Delivered,Opened,Not Clicked,Not Converted,179,2025-01-07 14:32:27,Not Opened,Not Clicked,2024-12-31 18:45:33,38,Male,New York,0.0,0.0
+Summer Sale,Email,941,Delivered,Opened,Not Clicked,Converted,10,2025-01-18 23:40:07,2024-12-29 14:34:46,Not Clicked,2024-12-30 12:40:06,50,Non-Binary,Los Angeles,0.0,1.0
+Holiday Specials,Email,943,Delivered,Opened,Clicked,Converted,301,2024-12-30 18:40:05,2025-01-19 01:09:49,2025-01-14 09:25:00,Not Converted,53,Male,Los Angeles,1.0,1.0
+Black Friday,Email,944,Delivered,Not Opened,Clicked,Not Converted,79,2025-01-15 13:25:59,Not Opened,Not Clicked,Not Converted,56,Non-Binary,Miami,1.0,0.0
+Summer Sale,Push Notification,945,Delivered,Not Opened,Not Clicked,Not Converted,357,2025-01-06 13:04:04,2025-01-19 18:12:27,2025-01-19 17:56:36,Not Converted,35,Non-Binary,Miami,0.0,0.0
+New Product Launch,Email,947,Delivered,Opened,Clicked,Not Converted,406,2025-01-21 02:15:27,2025-01-18 09:50:59,Not Clicked,2025-01-15 16:07:40,60,Male,Miami,1.0,0.0
+Loyalty Program,SMS,948,Delivered,Not Opened,Not Clicked,Not Converted,517,2025-01-17 17:51:56,Not Opened,2025-01-20 18:00:54,Not Converted,48,Non-Binary,Los Angeles,0.0,0.0
+New Product Launch,Email,949,Delivered,Not Opened,Not Clicked,Converted,533,2025-01-11 09:46:58,2024-12-28 12:39:18,Not Clicked,Not Converted,61,Female,New York,0.0,1.0
+Loyalty Program,SMS,950,Delivered,Opened,Not Clicked,Not Converted,282,2025-01-10 11:13:33,Not Opened,Not Clicked,Not Converted,64,Non-Binary,Chicago,0.0,0.0
+Black Friday,SMS,952,Delivered,Opened,Clicked,Converted,210,2025-01-20 05:05:39,Not Opened,2025-01-04 10:56:17,2025-01-22 11:20:55,65,Non-Binary,Los Angeles,1.0,1.0
+Black Friday,SMS,953,Delivered,Opened,Clicked,Converted,64,2025-01-20 02:15:37,Not Opened,2025-01-13 16:18:40,Not Converted,42,Female,Los Angeles,1.0,1.0
+Loyalty Program,SMS,954,Delivered,Opened,Clicked,Not Converted,371,2025-01-14 09:37:07,2025-01-12 21:42:44,Not Clicked,Not Converted,29,Male,Chicago,1.0,0.0
+New Product Launch,SMS,956,Delivered,Opened,Clicked,Converted,149,2025-01-09 20:55:47,2025-01-25 22:14:21,2024-12-28 18:59:25,2025-01-03 16:52:28,20,Female,San Francisco,1.0,1.0
+Holiday Specials,Email,960,Delivered,Opened,Clicked,Converted,77,2025-01-22 09:01:29,2025-01-04 09:21:41,Not Clicked,Not Converted,50,Male,San Francisco,1.0,1.0
+Loyalty Program,SMS,962,Delivered,Opened,Clicked,Not Converted,22,2024-12-28 18:01:54,Not Opened,Not Clicked,2025-01-05 13:55:56,19,Female,Miami,1.0,0.0
+Winter Fest,Push Notification,963,Delivered,Opened,Not Clicked,Not Converted,125,2025-01-05 04:24:35,Not Opened,Not Clicked,2025-01-09 01:18:26,33,Non-Binary,New York,0.0,0.0
+Summer Sale,SMS,964,Delivered,Not Opened,Clicked,Converted,584,2025-01-02 11:08:06,Not Opened,Not Clicked,2025-01-20 10:41:04,35,Male,San Francisco,1.0,1.0
+Holiday Specials,Email,965,Delivered,Opened,Not Clicked,Not Converted,289,2025-01-17 12:51:37,2025-01-12 03:12:35,2025-01-14 09:20:20,Not Converted,50,Non-Binary,New York,0.0,0.0
+Summer Sale,SMS,967,Delivered,Not Opened,Not Clicked,Converted,442,2025-01-18 04:58:59,2025-01-11 20:27:41,Not Clicked,2025-01-21 09:55:06,27,Female,New York,0.0,1.0
+Holiday Specials,Email,969,Delivered,Opened,Not Clicked,Not Converted,191,2025-01-24 06:50:33,2025-01-04 23:00:51,Not Clicked,Not Converted,26,Non-Binary,New York,0.0,0.0
+Loyalty Program,SMS,970,Delivered,Opened,Clicked,Converted,470,2025-01-11 23:51:52,2025-01-20 06:23:34,2025-01-04 08:17:49,2025-01-26 18:35:16,57,Non-Binary,Miami,1.0,1.0
+Loyalty Program,Email,971,Delivered,Not Opened,Not Clicked,Converted,140,2025-01-14 12:47:33,Not Opened,2025-01-21 01:54:16,2025-01-18 23:08:19,58,Non-Binary,Houston,0.0,1.0
+Holiday Specials,Push Notification,972,Delivered,Opened,Clicked,Converted,161,2025-01-21 05:01:48,2025-01-18 16:13:16,2024-12-29 03:28:53,2024-12-31 16:36:13,48,Non-Binary,Chicago,1.0,1.0
+New Product Launch,Push Notification,973,Delivered,Not Opened,Not Clicked,Not Converted,237,2025-01-01 20:09:19,2024-12-31 04:15:01,Not Clicked,2025-01-23 14:41:25,36,Male,San Francisco,0.0,0.0
+Winter Fest,Email,974,Delivered,Opened,Not Clicked,Not Converted,262,2025-01-14 11:29:41,Not Opened,Not Clicked,Not Converted,47,Non-Binary,San Francisco,0.0,0.0
+Winter Fest,SMS,975,Delivered,Not Opened,Not Clicked,Converted,304,2025-01-14 08:36:58,Not Opened,Not Clicked,Not Converted,41,Non-Binary,Houston,0.0,1.0
+Summer Sale,Email,976,Delivered,Not Opened,Not Clicked,Not Converted,449,2025-01-25 13:58:48,Not Opened,2025-01-10 00:31:31,2024-12-29 15:25:52,39,Male,Houston,0.0,0.0
+Loyalty Program,Email,977,Delivered,Not Opened,Not Clicked,Converted,443,2025-01-05 19:55:09,Not Opened,2025-01-25 02:49:40,2025-01-24 00:54:46,58,Non-Binary,San Francisco,0.0,1.0
+New Product Launch,Email,979,Delivered,Opened,Clicked,Converted,477,2025-01-22 23:47:11,Not Opened,Not Clicked,Not Converted,25,Female,Chicago,1.0,1.0
+Black Friday,Push Notification,980,Delivered,Not Opened,Clicked,Not Converted,375,2025-01-08 05:17:31,2025-01-13 17:32:20,Not Clicked,2025-01-18 21:49:49,57,Non-Binary,Los Angeles,1.0,0.0
+Black Friday,Push Notification,982,Delivered,Not Opened,Clicked,Converted,536,2025-01-22 13:02:33,2025-01-23 07:45:53,Not Clicked,2025-01-10 05:13:38,46,Male,Miami,1.0,1.0
+Loyalty Program,SMS,984,Delivered,Opened,Not Clicked,Converted,200,2025-01-16 20:04:31,Not Opened,2024-12-29 17:44:23,Not Converted,60,Non-Binary,Miami,0.0,1.0
+Black Friday,Push Notification,987,Delivered,Not Opened,Not Clicked,Converted,582,2025-01-21 17:35:58,2025-01-24 10:29:46,Not Clicked,2025-01-19 01:44:41,26,Male,Chicago,0.0,1.0
+Black Friday,SMS,989,Delivered,Opened,Clicked,Not Converted,168,2024-12-30 12:52:31,2024-12-31 16:29:39,2025-01-21 10:48:32,Not Converted,53,Non-Binary,Los Angeles,1.0,0.0
+Holiday Specials,SMS,990,Delivered,Opened,Clicked,Converted,86,2025-01-16 11:52:56,Not Opened,2025-01-05 17:04:45,2025-01-19 11:12:34,20,Male,Miami,1.0,1.0
+Holiday Specials,Email,991,Delivered,Not Opened,Clicked,Not Converted,6,2025-01-02 13:33:06,Not Opened,2025-01-08 10:53:48,Not Converted,64,Female,San Francisco,1.0,0.0
+Black Friday,SMS,992,Delivered,Not Opened,Clicked,Converted,45,2024-12-30 10:06:56,2025-01-15 22:23:52,2025-01-10 13:11:35,2025-01-13 09:28:52,19,Male,Miami,1.0,1.0
+New Product Launch,Push Notification,993,Delivered,Not Opened,Clicked,Converted,577,2025-01-05 20:10:45,Not Opened,Not Clicked,2024-12-28 22:50:30,29,Non-Binary,Miami,1.0,1.0
+Black Friday,Email,995,Delivered,Opened,Not Clicked,Converted,279,2025-01-04 06:27:00,2025-01-23 04:35:54,2025-01-15 18:23:26,Not Converted,21,Male,Chicago,0.0,1.0
+New Product Launch,SMS,997,Delivered,Opened,Not Clicked,Not Converted,465,2025-01-18 12:59:20,2025-01-13 21:57:46,2025-01-19 17:32:52,2025-01-12 23:41:11,31,Non-Binary,San Francisco,0.0,0.0
+Winter Fest,SMS,999,Delivered,Opened,Not Clicked,Converted,198,2025-01-10 23:28:40,Not Opened,Not Clicked,2025-01-03 12:16:55,33,Female,Chicago,0.0,1.0
+Holiday Specials,Email,1000,Delivered,Not Opened,Clicked,Not Converted,15,2024-12-30 15:02:17,2025-01-16 19:57:44,Not Clicked,2025-01-05 13:40:44,47,Female,Chicago,1.0,0.0
