@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes marketing campaign data from a hypothetical Braze CRM tool. The dataset includes information on email, SMS, and push notification campaigns, along with user engagement metrics such as delivery status, clicks, conversions, and recipient demographics. The goal is to optimize marketing strategies and derive actionable insights by creating an interactive Tableau dashboard and querying the data with SQL.
 
+## Screenshots
+![Tableau Dashboard Screenshot](Dashboard.png)
 ---
 
 ## Objectives
@@ -129,8 +131,7 @@ GROUP BY campaign_type, recipient_location;
 
 ---
 
-## Screenshots
-![Tableau Dashboard Screenshot](Dashboard_Screenshot.png)
+
 
 ---
 
